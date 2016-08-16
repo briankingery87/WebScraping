@@ -11,3 +11,5 @@ https://www.mcdonalds.com/services/mcd/us/restaurantLocator?latitude=39.833&long
 ##Web App
 
 http://www.arcgis.com/apps/Minimalist/index.html?appid=d4a4c314471543ebb26b5344a0cd2465
+
+![Screenshot 2](https://github.com/briankingery87/WebScraping/blob/master/McDonalds/WebApp.JPG)
