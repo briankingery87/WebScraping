@@ -1,0 +1,564 @@
+ID,Name,Address,City,State,Zipcode,Phone,Latitude,Longitude,Type,URL
+23413,Steak n Shake,2009 Kenyon Road,Urbana,IL,61802,2173443855,40.134,-88.1995,traditional,https://orderonline.steaknshake.com/o/restaurant/18077
+23415,Steak n Shake,2100 N. Richmond Rd.,Mchenry,IL,60050,8157599885,42.3556,-88.2665,traditional,https://orderonline.steaknshake.com/o/restaurant/18195
+23417,Steak n Shake,6549 Miller Lane,Dayton,OH,45414,9374545913,39.8423,-84.1921,traditional,https://orderonline.steaknshake.com/o/restaurant/18295
+23419,Steak n Shake,1211 N. Keller,Effingham,IL,62401,2172100386,39.1374,-88.5649,traditional,https://orderonline.steaknshake.com/o/restaurant/18061
+23421,Steak n Shake,3906 South Florida Ave.,Lakeland,FL,33813,8636481440,27.9931,-81.9559,traditional,https://orderonline.steaknshake.com/o/restaurant/18192
+23423,Steak n Shake,2101 Liberty Drive,Bloomington,IN,47403,8123397222,39.1464,-86.5774,traditional,https://orderonline.steaknshake.com/o/restaurant/18108
+23425,Steak n Shake,2675 N. Plainfield Road,Joliet,IL,60435,8154399145,41.5762,-88.1561,traditional,https://orderonline.steaknshake.com/o/restaurant/18076
+23427,Steak n Shake,8115 Red Bug Lake Road,Oviedo,FL,32765,4073665851,28.6559,-81.2387,traditional,https://orderonline.steaknshake.com/o/restaurant/18142
+23429,Steak n Shake,10911 New Halls Ferry Road,St. Louis,MO,63136,3142661234,38.7687,-90.2649,traditional,https://orderonline.steaknshake.com/o/restaurant/18049
+23431,Steak n Shake,1305 Locke Road,Bourbonnais,IL,60914,8159325600,41.163,-87.8495,traditional,https://orderonline.steaknshake.com/o/restaurant/18062
+23433,Steak n Shake,2998 Hwy. K O&#39;fallon Crossing,O&#39;fallon,MO,63366,6362402049,38.7555,-90.6993,traditional,https://orderonline.steaknshake.com/o/restaurant/18127
+23435,Steak n Shake,99 Conference Center Drive,East Peoria,IL,61611,3096994331,40.6838,-89.5891,traditional,https://orderonline.steaknshake.com/o/restaurant/17993
+23437,Steak n Shake,3229 N. University,Peoria,IL,61604,3096828723,40.7265,-89.6123,traditional,https://orderonline.steaknshake.com/o/restaurant/17997
+23439,Steak n Shake,819 E. Memorial Blvd.,Lakeland,FL,33801,8636839352,28.0548,-81.9485,traditional,https://orderonline.steaknshake.com/o/restaurant/18034
+23441,Steak n Shake,247 W. Smith Valley Road,Greenwood,IN,46142,3178856474,39.606,-86.1096,traditional,https://orderonline.steaknshake.com/o/restaurant/18097
+23443,Steak n Shake,990 S Federal Highway,Hallandale,FL,33009,9544570542,25.9754,-80.1425,traditional,https://orderonline.steaknshake.com/o/restaurant/18319
+23445,Steak n Shake,275 E. Army Trail,Glendale Heights,IL,60139,6306710551,41.9362,-88.0774,traditional,https://orderonline.steaknshake.com/o/restaurant/18178
+23447,Steak n Shake,7101 W. Colonial Blvd,Orlando,FL,32818,4072976650,28.5526,-81.4782,traditional,https://orderonline.steaknshake.com/o/restaurant/18145
+23449,Steak n Shake,1080 El Jobean Rd,Port Charlotte,FL,33948,9412556990,27.0111,-82.1486,traditional,https://orderonline.steaknshake.com/o/restaurant/18158
+23451,Steak n Shake,7515 N. Grand Prairie Drive,Peoria,IL,61602,3096937529,40.7791,-89.6766,traditional,https://orderonline.steaknshake.com/o/restaurant/18308
+23453,Steak n Shake,3046 Little Road,Trinity,FL,34655,7273728777,28.2041,-82.6658,traditional,https://orderonline.steaknshake.com/o/restaurant/18324
+23455,Steak n Shake,8420 Springboro Road,Miamisburg,OH,45342,9374361949,39.6279,-84.2255,traditional,https://orderonline.steaknshake.com/o/restaurant/18163
+23457,Steak n Shake,2819c Wilma Rudolph,Clarksville,TN,37040,9319067450,36.5977,-87.2842,traditional,https://orderonline.steaknshake.com/o/restaurant/18173
+23459,Steak n Shake,4120 Ellsworth Rd.,Ypsilanti,MI,48197,7345284006,42.23,-83.678,traditional,https://orderonline.steaknshake.com/o/restaurant/18199
+23461,Steak n Shake,8101 Dr. Martin Luther King St. N,St Petersburg,FL,33702,7275689169,27.8463,-82.6463,traditional,https://orderonline.steaknshake.com/o/restaurant/18203
+23463,Steak n Shake,201 E. Euclid Ave.,Mount Prospect,IL,60056,8473689122,42.0875,-87.9334,traditional,https://orderonline.steaknshake.com/o/restaurant/18216
+23465,Steak n Shake,3380 Northside Pkwy,Atlanta,GA,30327,4042627051,33.8468,-84.4297,traditional,https://orderonline.steaknshake.com/o/restaurant/18347
+23467,Steak n Shake,"1610 Scenic Highway, SW",Snellville,GA,30078,7709788787,33.8848,-84.01,traditional,https://orderonline.steaknshake.com/o/restaurant/18355
+23469,Steak n Shake,9700 S. South Blvd.,Charlotte,NC,28273,7045536344,35.1268,-80.8783,traditional,https://orderonline.steaknshake.com/o/restaurant/18358
+23471,Steak n Shake,13800 Lakeside Circle,Sterling Heights,MI,48313,5865328183,42.622,-82.9911,traditional,https://orderonline.steaknshake.com/o/restaurant/18219
+23473,Steak n Shake,3615 S. Reed Road,Kokomo,IN,46902,7654539595,40.4453,-86.1238,traditional,https://orderonline.steaknshake.com/o/restaurant/18044
+23475,Steak n Shake,3000 Old Boynton Rd.,Boynton Beach,FL,33436,5613695977,26.5312,-80.0938,traditional,https://orderonline.steaknshake.com/o/restaurant/18221
+23477,Steak n Shake,1721 NE Pine Island Rd,Cape Coral,FL,33909,2397722357,26.6698,-81.9381,traditional,https://orderonline.steaknshake.com/o/restaurant/18238
+23479,Steak n Shake,135 N. Weber Road,Bolingbrook,IL,60440,6307590908,41.6977,-88.1239,traditional,https://orderonline.steaknshake.com/o/restaurant/18249
+23481,Steak n Shake,23350 Allen Road,Woodhaven,MI,48183,7346711950,42.1381,-83.2278,traditional,https://orderonline.steaknshake.com/o/restaurant/18255
+23483,Steak n Shake,12921 Sheldon Road,Tampa,FL,33626,8137921706,28.0678,-82.5786,traditional,https://orderonline.steaknshake.com/o/restaurant/18262
+23485,Steak n Shake,320 W. North Ave.,West Chicago,IL,60185,6305624370,41.9153,-88.212,traditional,https://orderonline.steaknshake.com/o/restaurant/18271
+23487,Steak n Shake,4666 Dressler Road,Canton,OH,44718,3304700092,40.8477,-81.435,traditional,https://orderonline.steaknshake.com/o/restaurant/18275
+23489,Steak n Shake,6786 Applewood Blvd.,Boardman,OH,44512,3309650753,41.0253,-80.6435,traditional,https://orderonline.steaknshake.com/o/restaurant/18279
+23491,Steak n Shake,429 Coit Road,Plano,TX,75075,9727582992,33.0037,-96.7683,traditional,https://orderonline.steaknshake.com/o/restaurant/18303
+23493,Steak n Shake,4240 Venture Drive,Peru,IL,61354,8152243111,41.36,-89.1268,traditional,https://orderonline.steaknshake.com/o/restaurant/18080
+23495,Steak n Shake,1917 Pipestone Road,Benton Harbor,MI,49022,2699262704,42.0815,-86.4173,traditional,https://orderonline.steaknshake.com/o/restaurant/18098
+23497,Steak n Shake,831 Clepper Lane,Cincinnati,OH,45245,5139430990,39.0925,-84.2651,traditional,https://orderonline.steaknshake.com/o/restaurant/18116
+23499,Steak n Shake,4325 W. Lake Mary Blvd.,Lake Mary,FL,32746,4073284200,28.7556,-81.3511,traditional,https://orderonline.steaknshake.com/o/restaurant/18137
+23501,Steak n Shake,"3396 Cobb Parkway, NW",Acworth,GA,30101,7705296661,34.0362,-84.6853,traditional,https://orderonline.steaknshake.com/o/restaurant/18367
+23503,Steak n Shake,151 E. Ashland Street,Morton,IL,61550,3092634210,40.6227,-89.4637,traditional,https://orderonline.steaknshake.com/o/restaurant/18342
+23505,Steak n Shake,650 Birk Road,Martinsville,IN,46151,7653521905,39.4189,-86.4086,traditional,https://orderonline.steaknshake.com/o/restaurant/18340
+23507,Steak n Shake,790 E. Merritt Isl. Cswy.,Merritt Island,FL,32952,3214530922,28.3574,-80.6839,traditional,https://orderonline.steaknshake.com/o/restaurant/18141
+23509,Steak n Shake,5825 Scatterfield Road,Anderson,IN,46013,7656229367,40.056,-85.6535,traditional,https://orderonline.steaknshake.com/o/restaurant/18095
+23511,Steak n Shake,3549 North Lindbergh,St. Ann,MO,63074,3147396014,38.7312,-90.4053,traditional,https://orderonline.steaknshake.com/o/restaurant/18013
+23513,Steak n Shake,4025 Elkhart Road,Goshen,IN,46526,5748755372,41.621,-85.9021,traditional,https://orderonline.steaknshake.com/o/restaurant/18113
+23515,Steak n Shake,1568 West Lane Road,Machesney Park,IL,61115,8156369675,42.3661,-89.0241,traditional,https://orderonline.steaknshake.com/o/restaurant/18312
+23517,Steak n Shake,2647 Lawndale Drive,Greensboro,NC,27408,3362868567,36.1076,-79.8197,traditional,https://orderonline.steaknshake.com/o/restaurant/19569
+23519,Steak n Shake,883 Vann Drive,Jackson,TN,38305,7315120334,35.6702,-88.8525,traditional,https://orderonline.steaknshake.com/o/restaurant/19574
+23521,Steak n Shake,6136 South Memorial Dr.,Tulsa,OK,74133,9182940275,36.0748,-95.8862,traditional,https://orderonline.steaknshake.com/o/restaurant/19578
+23523,Steak n Shake,310 Wild Geese Rd,Knoxville,TN,37922,8656752551,35.9087,-84.1247,traditional,https://orderonline.steaknshake.com/o/restaurant/19584
+23525,Steak n Shake,950 Market Place Boulevard,Irving,TX,75063,2145745300,32.9175,-96.9606,traditional,https://orderonline.steaknshake.com/o/restaurant/18291
+23527,Steak n Shake,7350 Gravois,St. Louis,MO,63116,3143529264,38.5639,-90.2942,traditional,https://orderonline.steaknshake.com/o/restaurant/18020
+23529,Steak n Shake,207 N. Anderson Lane,Hendersonville,TN,37075,6152030298,36.3138,-86.5955,traditional,https://orderonline.steaknshake.com/o/restaurant/18380
+23531,Steak n Shake,3980 Wedgewood Lane,The Villages,FL,32162,3522054950,28.9278,-82.0285,traditional,https://orderonline.steaknshake.com/o/restaurant/18388
+23533,Steak n Shake,2856 Center Drive,Fairborn,OH,45324,9373200621,39.7717,-84.049,traditional,https://orderonline.steaknshake.com/o/restaurant/18134
+23535,Steak n Shake,1700 Georgesville Square Dr.,Columbus,OH,43228,6148531667,39.9203,-83.1183,traditional,https://orderonline.steaknshake.com/o/restaurant/18229
+23537,Steak n Shake,1567 West Fifth Street,Eureka,MO,63025,6365498200,38.5045,-90.6586,traditional,https://orderonline.steaknshake.com/o/restaurant/18156
+23539,Steak n Shake,120 Arnold Crossroads Center,Arnold,MO,63010,6362961891,38.4449,-90.377,traditional,https://orderonline.steaknshake.com/o/restaurant/18050
+23541,Steak n Shake,281 University Boulevard,Round Rock,TX,78664,5125246012,30.5582,-97.6924,traditional,https://orderonline.steaknshake.com/o/restaurant/19556
+23543,Steak n Shake,503 W. Main Street,Branson,MO,65616,4173365303,36.6442,-93.2221,traditional,https://orderonline.steaknshake.com/o/restaurant/19535
+23545,Steak n Shake,1550 S. Glenstone,Springfield,MO,65804,4178870906,37.1865,-93.2619,traditional,https://orderonline.steaknshake.com/o/restaurant/19537
+23547,Steak n Shake,3755 S. Campbell,Springfield,MO,65807,4178827164,37.1467,-93.296,traditional,https://orderonline.steaknshake.com/o/restaurant/19539
+23549,Steak n Shake,1160 Rye Lane,Lebanon,MO,65536,4175322795,37.6702,-92.6508,traditional,https://orderonline.steaknshake.com/o/restaurant/19542
+23551,Steak n Shake,4211 Conestoga Drive,Springfield,IL,62707,2176989439,39.7405,-89.7023,traditional,https://orderonline.steaknshake.com/o/restaurant/19548
+23553,Steak n Shake,3004 Clark Lane,Columbia,MO,65202,5738868535,38.9631,-92.293,traditional,https://orderonline.steaknshake.com/o/restaurant/19559
+23555,Steak n Shake,5828 South Lindbergh,St. Louis,MO,63123,3148433120,38.5229,-90.3475,traditional,https://orderonline.steaknshake.com/o/restaurant/18023
+23557,Steak n Shake,7310 South Lindbergh,St. Louis,MO,63125,3144874144,38.5065,-90.3282,traditional,https://orderonline.steaknshake.com/o/restaurant/18026
+23559,Steak n Shake,2720 Spring Ave. S.w.,Decatur,AL,35603,2563410112,34.5579,-86.9997,traditional,https://orderonline.steaknshake.com/o/restaurant/18269
+23561,Steak n Shake,7510 West 63rd Street,Overland Park,KS,66202,9132621800,39.016,-94.6731,traditional,https://orderonline.steaknshake.com/o/restaurant/19587
+23563,Steak n Shake,635 E. Carmel Drive,Carmel,IN,46032,3178443936,39.9621,-86.1152,traditional,https://orderonline.steaknshake.com/o/restaurant/18010
+23565,Steak n Shake,9770 Montgomery Road,Cincinnati,OH,45242,5139841202,39.2333,-84.3506,traditional,https://orderonline.steaknshake.com/o/restaurant/18038
+23567,Steak n Shake,11470 Princeton Pike,Cincinnati,OH,45246,5132751142,39.2865,-84.4659,traditional,https://orderonline.steaknshake.com/o/restaurant/18039
+23569,Steak n Shake,1365 E. Main,Carbondale,IL,62901,6184572187,37.7333,-89.187,traditional,https://orderonline.steaknshake.com/o/restaurant/18072
+23571,Steak n Shake,6208 Cambridge Way,Plainfield,IN,46168,3178380280,39.6706,-86.3698,traditional,https://orderonline.steaknshake.com/o/restaurant/18117
+23573,Steak n Shake,1485 West Main,Hamilton,OH,45013,5132751149,39.4244,-84.595,traditional,https://orderonline.steaknshake.com/o/restaurant/18130
+23575,Steak n Shake,10181 Colerain Ave.,Cincinnati,OH,45251,5133702014,39.2576,-84.6017,traditional,https://orderonline.steaknshake.com/o/restaurant/18190
+23577,Steak n Shake,4830 Crossings Court,Fredericksburg,VA,22407,5408988898,38.2356,-77.501,traditional,https://orderonline.steaknshake.com/o/restaurant/19612
+23579,Steak n Shake,104 Magnolia Drive,Georgetown,KY,40324,5028636832,38.2252,-84.5384,traditional,https://orderonline.steaknshake.com/o/restaurant/18369
+23581,Steak n Shake,9550 Natural Bridge,St. Louis,MO,63134,3144273277,38.7277,-90.3426,traditional,https://orderonline.steaknshake.com/o/restaurant/18012
+23583,Steak n Shake,2221 First Capitol Drive,St. Charles,MO,63301,6367243234,38.7778,-90.5113,traditional,https://orderonline.steaknshake.com/o/restaurant/18014
+23585,Steak n Shake,4199 Hacks Cross Road,Memphis,TN,38125,9017553483,35.0359,-89.7958,traditional,https://orderonline.steaknshake.com/o/restaurant/19575
+23587,Steak n Shake,10650 Us Hwy 441,Leesburg,FL,34788,3522531190,28.8208,-81.7813,traditional,https://orderonline.steaknshake.com/o/restaurant/18189
+23589,Steak n Shake,1300 Lemay Ferry Road,St. Louis,MO,63125,3145440411,38.532,-90.2881,traditional,https://orderonline.steaknshake.com/o/restaurant/18022
+23591,Steak n Shake,7606 Manchester,St. Louis,MO,63143,3146451815,38.6127,-90.3266,traditional,https://orderonline.steaknshake.com/o/restaurant/18027
+23593,Steak n Shake,10860 Lincoln Trail,Fairview Heights,IL,62208,6183942520,38.5923,-89.9887,traditional,https://orderonline.steaknshake.com/o/restaurant/18029
+23595,Steak n Shake,1000 W. International Spdwy. Blvd.,Daytona Beach,FL,32114,3862535283,29.2033,-81.0405,traditional,https://orderonline.steaknshake.com/o/restaurant/18030
+23597,Steak n Shake,1610 S.w. 13th Street,Gainesville,FL,32608,3523760588,29.636,-82.3399,traditional,https://orderonline.steaknshake.com/o/restaurant/18035
+23599,Steak n Shake,2057 Airport Boulevard,Pensacola,FL,32504,8504732280,30.4762,-87.2045,traditional,https://orderonline.steaknshake.com/o/restaurant/19599
+23601,Steak n Shake,1601 Bradley Park Drive,Columbus,GA,31904,7063230267,32.5324,-84.9756,traditional,https://orderonline.steaknshake.com/o/restaurant/19604
+23603,Steak n Shake,7929 East Division Street,Evansville,IN,47715,8124751400,37.9767,-87.4813,traditional,https://orderonline.steaknshake.com/o/restaurant/19610
+23605,Steak n Shake,1471 North Westwood,Poplar Bluff,MO,63901,5737856111,36.7722,-90.4191,traditional,https://orderonline.steaknshake.com/o/restaurant/19611
+23607,Steak n Shake,1066 N. Henderson,Galesburg,IL,61401,3093060238,40.9603,-90.3836,traditional,https://orderonline.steaknshake.com/o/restaurant/17998
+23609,Steak n Shake,3489 Court Street,Pekin,IL,61554,3093060215,40.548,-89.6067,traditional,https://orderonline.steaknshake.com/o/restaurant/17999
+23611,Steak n Shake,2900 S. Third Street,Terre Haute,IN,47802,8122350242,39.4353,-87.4134,traditional,https://orderonline.steaknshake.com/o/restaurant/18070
+23613,Steak n Shake,3810 W. Washington,Indianapolis,IN,46241,3172410483,39.7607,-86.2262,traditional,https://orderonline.steaknshake.com/o/restaurant/18002
+23615,Steak n Shake,5360 N. Keystone Ave.,Indianapolis,IN,46220,3172518320,39.8503,-86.122,traditional,https://orderonline.steaknshake.com/o/restaurant/18003
+23617,Steak n Shake,4020 S East Street,Indianapolis,IN,46227,3177811525,39.7067,-86.1492,traditional,https://orderonline.steaknshake.com/o/restaurant/18004
+23619,Steak n Shake,11040 Pendleton Pike,Indianapolis,IN,46236,3178237380,39.8644,-85.9715,traditional,https://orderonline.steaknshake.com/o/restaurant/18006
+23621,Steak n Shake,5036 North Big Hollow Road,Peoria,IL,61615,3096910914,40.7463,-89.632,traditional,https://orderonline.steaknshake.com/o/restaurant/18073
+23623,Steak n Shake,1802 S. Veteran&#39;s Parkway,Bloomington,IL,61704,3096619204,40.4594,-88.9757,traditional,https://orderonline.steaknshake.com/o/restaurant/18075
+23625,Steak n Shake,5229 Elmore Ave.,Davenport,IA,52807,5633440701,41.5739,-90.526,traditional,https://orderonline.steaknshake.com/o/restaurant/18081
+23627,Steak n Shake,3821 41st Avenue Drive,Moline,IL,61265,3097649453,41.4712,-90.4805,traditional,https://orderonline.steaknshake.com/o/restaurant/18082
+23629,Steak n Shake,312 N. U.s. 41,Schererville,IN,46375,2193222563,41.5171,-87.471,traditional,https://orderonline.steaknshake.com/o/restaurant/18083
+23631,Steak n Shake,2380 Sycamore Road,Dekalb,IL,60115,8157585582,41.9522,-88.7249,traditional,https://orderonline.steaknshake.com/o/restaurant/18084
+23633,Steak n Shake,8609 Watson Road,St. Louis,MO,63119,3149611184,38.5652,-90.3596,traditional,https://orderonline.steaknshake.com/o/restaurant/18024
+23635,Steak n Shake,4305 Commercial Way,Spring Hill,FL,34606,3525969388,28.4925,-82.5987,traditional,https://orderonline.steaknshake.com/o/restaurant/18168
+23637,Steak n Shake,9150 N. Main Street,Dayton,OH,45415,9378320294,39.8561,-84.2755,traditional,https://orderonline.steaknshake.com/o/restaurant/18181
+23639,Steak n Shake,290 S. Randall Rd.,Elgin,IL,60123,8477410679,42.0286,-88.34,traditional,https://orderonline.steaknshake.com/o/restaurant/18087
+23641,Steak n Shake,1919 N. College,Bloomington,IN,47404,8123318898,39.1829,-86.5351,traditional,https://orderonline.steaknshake.com/o/restaurant/18088
+23643,Steak n Shake,443 N. Semoran Blvd.,Winter Park,FL,32792,4076789527,28.6025,-81.307,traditional,https://orderonline.steaknshake.com/o/restaurant/18046
+23645,Steak n Shake,2 N. Sagamore Pkwy.,Lafayette,IN,47904,7654476091,40.4179,-86.8586,traditional,https://orderonline.steaknshake.com/o/restaurant/18047
+23647,Steak n Shake,8640 Michigan Road,Indianapolis,IN,46268,3178723775,39.9128,-86.2239,traditional,https://orderonline.steaknshake.com/o/restaurant/18051
+23649,Steak n Shake,4501 S. Emerson,Indianapolis,IN,46203,3177862184,39.7017,-86.0821,traditional,https://orderonline.steaknshake.com/o/restaurant/18055
+23651,Steak n Shake,300 South College Mall Road,Bloomington,IN,47401,8123347775,39.1635,-86.4984,traditional,https://orderonline.steaknshake.com/o/restaurant/18057
+23653,Steak n Shake,7960 Us 31 South,Indianapolis,IN,46227,3178889584,39.6504,-86.138,traditional,https://orderonline.steaknshake.com/o/restaurant/18008
+23655,Steak n Shake,2103 Pinnacle Parkway,Covington,LA,70433,9858980694,30.4442,-90.1297,traditional,https://orderonline.steaknshake.com/o/restaurant/19618
+23657,Steak n Shake,1525 S. Kirkwood Road,Sunset Hills,MO,63127,3142662177,38.5569,-90.4073,traditional,https://orderonline.steaknshake.com/o/restaurant/18052
+23659,Steak n Shake,4313 West Vine St.,Kissimmee,FL,34746,4073293221,28.304,-81.4562,traditional,https://orderonline.steaknshake.com/o/restaurant/18150
+23661,Steak n Shake,999 Veterans Blvd.,Festus,MO,63028,6369330255,38.2139,-90.4036,traditional,https://orderonline.steaknshake.com/o/restaurant/18058
+23663,Steak n Shake,606 North Bluff,Collinsville,IL,62234,6186230004,38.683,-90.0106,traditional,https://orderonline.steaknshake.com/o/restaurant/18060
+23665,Steak n Shake,1955 Highway 67 N,Florissant,MO,63033,3148399016,38.8002,-90.316,traditional,https://orderonline.steaknshake.com/o/restaurant/18067
+23667,Steak n Shake,5555 Youngstown Warren Rd.,Niles,OH,44446,3305053599,41.2109,-80.7516,traditional,https://orderonline.steaknshake.com/o/restaurant/18286
+23669,Steak n Shake,6413 Precinct Line Rd,North Richland Hills,TX,76180,8174983966,32.8632,-97.1866,traditional,https://orderonline.steaknshake.com/o/restaurant/18298
+23671,Steak n Shake,9401 Vista Way,Garfield Heights,OH,44125,2165875291,41.4089,-81.6187,traditional,https://orderonline.steaknshake.com/o/restaurant/18371
+23673,Steak n Shake,2724 W. Deyoung Street,Marion,IL,62959,6189933939,37.7435,-88.9687,traditional,https://orderonline.steaknshake.com/o/restaurant/18068
+23675,Steak n Shake,5131 Hinkleville Road,Paducah,KY,42001,2705754846,37.0777,-88.6843,traditional,https://orderonline.steaknshake.com/o/restaurant/18069
+23677,Steak n Shake,1640 E. Tipton Street,Seymour,IN,47274,8125236616,38.9577,-85.8632,traditional,https://orderonline.steaknshake.com/o/restaurant/18120
+23679,Steak n Shake,3488 Alpine Ave.,Grand Rapids,MI,49544,6167857082,43.0254,-85.6889,traditional,https://orderonline.steaknshake.com/o/restaurant/18124
+23681,Steak n Shake,1779 W. Main,Troy,OH,45373,9373350064,40.0538,-84.2357,traditional,https://orderonline.steaknshake.com/o/restaurant/18125
+23683,Steak n Shake,681 Sycamore,Sullivan,MO,63080,5732036260,38.2227,-91.1566,traditional,https://orderonline.steaknshake.com/o/restaurant/18128
+23685,Steak n Shake,10625 U.s. Hwy. 36,Avon,IN,46123,3172710402,39.763,-86.3327,traditional,https://orderonline.steaknshake.com/o/restaurant/18129
+23687,Steak n Shake,200 Meijer Way,Lafayette,IN,47905,7654473375,40.4156,-86.8152,traditional,https://orderonline.steaknshake.com/o/restaurant/18131
+23689,Steak n Shake,1825 Barrington Road,Hoffman Estates,IL,60169,8475194435,42.0585,-88.144,traditional,https://orderonline.steaknshake.com/o/restaurant/18172
+23691,Steak n Shake,719 Myatt Drive,Madison,TN,37115,6158608158,36.2958,-86.6969,traditional,https://orderonline.steaknshake.com/o/restaurant/18174
+23693,Steak n Shake,12035 East Colonial Drive,Orlando,FL,32826,4073842266,28.5668,-81.2023,traditional,https://orderonline.steaknshake.com/o/restaurant/18177
+23695,Steak n Shake,4040 Carothers Parkway,Franklin,TN,37067,6155957955,35.9129,-86.8186,traditional,https://orderonline.steaknshake.com/o/restaurant/18180
+23697,Steak n Shake,4333 Fox Valley Center Drive,Aurora,IL,60504,6305850730,41.7546,-88.2104,traditional,https://orderonline.steaknshake.com/o/restaurant/18183
+23699,Steak n Shake,5000b Old Hickory Blvd.,Hermitage,TN,37076,6152311011,36.1971,-86.618,traditional,https://orderonline.steaknshake.com/o/restaurant/18184
+23701,Steak n Shake,4297 Cattlemen Rd,Sarasota,FL,34233,9413784405,27.2928,-82.4513,traditional,https://orderonline.steaknshake.com/o/restaurant/18188
+23703,Steak n Shake,2001 Colby Taylor Dr.,Richmond,KY,40475,8596269300,37.7357,-84.3257,traditional,https://orderonline.steaknshake.com/o/restaurant/18191
+23705,Steak n Shake,335 Leonardwood Dr.,Frankfort,KY,40601,5028750200,38.1611,-84.8963,traditional,https://orderonline.steaknshake.com/o/restaurant/18193
+23707,Steak n Shake,1940 94th Court,Vero Beach,FL,32966,7727940095,27.6392,-80.5212,traditional,https://orderonline.steaknshake.com/o/restaurant/18194
+23709,Steak n Shake,1236 W. S.r. 32,Lebanon,IN,46052,7654829371,40.0471,-86.4928,traditional,https://orderonline.steaknshake.com/o/restaurant/18133
+23711,Steak n Shake,3509 Hwy. 98 North,Lakeland,FL,33809,8638589797,28.0884,-81.9723,traditional,https://orderonline.steaknshake.com/o/restaurant/18135
+23713,Steak n Shake,3800 S.w. College Road,Ocala,FL,34474,3528731994,29.1484,-82.1863,traditional,https://orderonline.steaknshake.com/o/restaurant/18136
+23715,Steak n Shake,120 Williamson Blvd.,Ormond Beach,FL,32174,3866159977,29.2557,-81.1137,traditional,https://orderonline.steaknshake.com/o/restaurant/18138
+23717,Steak n Shake,927 Saxon Blvd.,Orange City,FL,32763,3867745440,28.9117,-81.2876,traditional,https://orderonline.steaknshake.com/o/restaurant/18144
+23719,Steak n Shake,12163 S. Apopka-vinland Rd.,Orlando,FL,32836,4072389550,28.3888,-81.5049,traditional,https://orderonline.steaknshake.com/o/restaurant/18146
+23721,Steak n Shake,1 Cypress Edge Drive,Palm Coast,FL,32164,3864466936,29.5521,-81.2261,traditional,https://orderonline.steaknshake.com/o/restaurant/18147
+23723,Steak n Shake,10555 Ulmerton Road,Largo,FL,33771,7275880848,27.8949,-82.7849,traditional,https://orderonline.steaknshake.com/o/restaurant/18149
+23725,Steak n Shake,11306 Causeway Blvd,Brandon,FL,33511,8136815112,27.9232,-82.3225,traditional,https://orderonline.steaknshake.com/o/restaurant/18152
+23727,Steak n Shake,18627 Us 19,Clearwater,FL,33764,7275356605,27.9418,-82.7295,traditional,https://orderonline.steaknshake.com/o/restaurant/18153
+23729,Steak n Shake,6050 Howdershell,Hazelwood,MO,63042,3142661184,38.7816,-90.3829,traditional,https://orderonline.steaknshake.com/o/restaurant/18155
+23731,Steak n Shake,5371 W. Main,Kalamazoo,MI,49009,2693494631,42.2956,-85.6559,traditional,https://orderonline.steaknshake.com/o/restaurant/18157
+23733,Steak n Shake,109 Regency Park,O&#39;fallon,IL,62269,6186288830,38.5924,-89.9381,traditional,https://orderonline.steaknshake.com/o/restaurant/18161
+23735,Steak n Shake,4360 Kenowa Ave. SW,Grandville,MI,49418,6166670744,42.8853,-85.78,traditional,https://orderonline.steaknshake.com/o/restaurant/18164
+23737,Steak n Shake,5477 Clyde Park,Wyoming,MI,49509,6165306627,42.8658,-85.6846,traditional,https://orderonline.steaknshake.com/o/restaurant/18165
+23739,Steak n Shake,9116 Us Hwy 19 North,Port Richey,FL,34668,7278480011,28.2897,-82.711,traditional,https://orderonline.steaknshake.com/o/restaurant/18166
+23741,Steak n Shake,1681 Wells Road,Orange Park,FL,32073,9042642649,30.1874,-81.725,traditional,https://orderonline.steaknshake.com/o/restaurant/18167
+23745,Steak n Shake,5415 Grape Road,Mishawaka,IN,46545,5742732933,41.7098,-86.188,traditional,https://orderonline.steaknshake.com/o/restaurant/18092
+23747,Steak n Shake,3250 Cassapolis Street,Elkhart,IN,46514,5742625409,41.7348,-85.9732,traditional,https://orderonline.steaknshake.com/o/restaurant/18094
+23749,Steak n Shake,10701 E. Washington Street,Indianapolis,IN,46229,3178950010,39.7752,-85.9762,traditional,https://orderonline.steaknshake.com/o/restaurant/18099
+23751,Steak n Shake,2288 N. Park Drive,Holland,MI,49424,6163959627,42.8107,-86.0893,traditional,https://orderonline.steaknshake.com/o/restaurant/18100
+23753,Steak n Shake,5809 S. Franklin St.,Michigan City,IN,46360,2198780523,41.6679,-86.8946,traditional,https://orderonline.steaknshake.com/o/restaurant/18102
+23755,Steak n Shake,1185 Gravois Road,Fenton,MO,63026,6367640020,38.491,-90.487,traditional,https://orderonline.steaknshake.com/o/restaurant/18103
+23757,Steak n Shake,2382 Troy Road,Edwardsville,IL,62025,6186591840,38.7876,-89.9505,traditional,https://orderonline.steaknshake.com/o/restaurant/18105
+23759,Steak n Shake,103 N. Sr 135,Greenwood,IN,46142,3178891180,39.6171,-86.1577,traditional,https://orderonline.steaknshake.com/o/restaurant/18109
+23761,Steak n Shake,2655 Airport Rd,Jackson,MI,49202,5178419390,42.2723,-84.4518,traditional,https://orderonline.steaknshake.com/o/restaurant/18112
+23763,Steak n Shake,4310 Southport Crossing,Indianapolis,IN,46237,3178871192,39.6651,-86.093,traditional,https://orderonline.steaknshake.com/o/restaurant/18115
+23765,Steak n Shake,5308 Fields-ertel,Cincinnati,OH,45249,5137709540,39.2928,-84.3183,traditional,https://orderonline.steaknshake.com/o/restaurant/18118
+23767,Steak n Shake,3226 Telegraph Road,St. Louis,MO,63125,3148924865,38.497,-90.2997,traditional,https://orderonline.steaknshake.com/o/restaurant/18119
+23769,Steak n Shake,1095 Sr 28,Milford,OH,45150,5139659336,39.1947,-84.2344,traditional,https://orderonline.steaknshake.com/o/restaurant/18248
+23771,Steak n Shake,1233 Omniplex Drive,Forest Park,OH,45240,5136713336,39.3037,-84.5247,traditional,https://orderonline.steaknshake.com/o/restaurant/18250
+23773,Steak n Shake,13133 S. Orange Blossom Trail,Orlando,FL,32837,4072408740,28.3748,-81.4043,traditional,https://orderonline.steaknshake.com/o/restaurant/18252
+23775,Steak n Shake,1741 Bechtle Avenue,Springfield,OH,45504,9373251944,39.9467,-83.8355,traditional,https://orderonline.steaknshake.com/o/restaurant/18256
+23777,Steak n Shake,5300 Abbe Rd,Elyria,OH,44035,4402190305,41.4195,-82.0778,traditional,https://orderonline.steaknshake.com/o/restaurant/18258
+23779,Steak n Shake,861 W. Eads Pkwy.,Lawrenceburg,IN,47025,8125394154,39.0866,-84.8791,traditional,https://orderonline.steaknshake.com/o/restaurant/18259
+23781,Steak n Shake,3835 Race Rd.,Cincinnati,OH,45211,5132142167,39.1589,-84.6298,traditional,https://orderonline.steaknshake.com/o/restaurant/18260
+23783,Steak n Shake,"1487 Victor Road, N.w.",Lancaster,OH,43130,7406893841,39.7472,-82.6514,traditional,https://orderonline.steaknshake.com/o/restaurant/18266
+23785,Steak n Shake,170 SW Commerce Dr,Lake City,FL,32025,3867196677,30.181,-82.6786,traditional,https://orderonline.steaknshake.com/o/restaurant/18268
+23787,Steak n Shake,2209 Oakton St.,Evanston,IL,60202,8474240111,42.0267,-87.7068,traditional,https://orderonline.steaknshake.com/o/restaurant/18270
+23789,Steak n Shake,3714 S.w. 42nd St.,Gainesville,FL,32608,3523777500,29.6204,-82.3848,traditional,https://orderonline.steaknshake.com/o/restaurant/18197
+23791,Steak n Shake,211 N. Randall Rd,Lake In The Hills,IL,60156,8474587630,42.1766,-88.3348,traditional,https://orderonline.steaknshake.com/o/restaurant/18200
+23793,Steak n Shake,1520 Ogden Ave,Downers Grove,IL,60515,6309631175,41.8082,-88.0229,traditional,https://orderonline.steaknshake.com/o/restaurant/18202
+23795,Steak n Shake,980 N. St. Augustine Road,Valdosta,GA,31601,2292425000,30.8383,-83.3177,traditional,https://orderonline.steaknshake.com/o/restaurant/18205
+23797,Steak n Shake,718 N. Westover Blvd,Albany,GA,31707,2298786700,31.6148,-84.2221,traditional,https://orderonline.steaknshake.com/o/restaurant/18206
+23799,Steak n Shake,3394 Capital Circle N.e.,Tallahassee,FL,32308,8503910156,30.5005,-84.2477,traditional,https://orderonline.steaknshake.com/o/restaurant/18207
+23801,Steak n Shake,1459 Capital Circle N.w.,Tallahassee,FL,32303,8505743163,30.46,-84.3607,traditional,https://orderonline.steaknshake.com/o/restaurant/18208
+23803,Steak n Shake,2441 S. Hamilton Rd.,Columbus,OH,43232,6145018277,39.9251,-82.8804,traditional,https://orderonline.steaknshake.com/o/restaurant/18210
+23805,Steak n Shake,115 Stander Ave.,Mansfield,OH,44903,4197563804,40.6939,-82.5112,traditional,https://orderonline.steaknshake.com/o/restaurant/18214
+23807,Steak n Shake,1832 Alysheba Way,Lexington,KY,40509,8595439096,38.0203,-84.4179,traditional,https://orderonline.steaknshake.com/o/restaurant/18215
+23809,Steak n Shake,1780 Hill Road N.,Pickerington,OH,43147,6145010353,39.9261,-82.7857,traditional,https://orderonline.steaknshake.com/o/restaurant/18217
+23811,Steak n Shake,5426 Target Drive,Antioch,TN,37013,6157173040,36.0441,-86.6599,traditional,https://orderonline.steaknshake.com/o/restaurant/18218
+23813,Steak n Shake,4047 Morse Crossing,Columbus,OH,43219,6144715047,40.0533,-82.9215,traditional,https://orderonline.steaknshake.com/o/restaurant/18224
+23815,Steak n Shake,12541 W. Sunrise Blvd.,Sunrise,FL,33323,9548359060,26.1461,-80.3183,traditional,https://orderonline.steaknshake.com/o/restaurant/18226
+23817,Steak n Shake,10330 Cascade Crossing,Brooklyn,OH,44144,2162670859,41.4216,-81.7588,traditional,https://orderonline.steaknshake.com/o/restaurant/18232
+23819,Steak n Shake,17200 S. Middlebelt,Livonia,MI,48152,7345252316,42.4136,-83.3349,traditional,https://orderonline.steaknshake.com/o/restaurant/18233
+23821,Steak n Shake,6075 Emerald Parkway,Dublin,OH,43016,6147981714,40.0761,-83.1411,traditional,https://orderonline.steaknshake.com/o/restaurant/18236
+23823,Steak n Shake,9431 Phillips Highway,Jacksonville,FL,32256,9045199913,30.195,-81.5675,traditional,https://orderonline.steaknshake.com/o/restaurant/18237
+23825,Steak n Shake,3635 Data Point Court,Hilliard,OH,43026,6148509864,40.0268,-83.1129,traditional,https://orderonline.steaknshake.com/o/restaurant/18239
+23827,Steak n Shake,3892 Baldwin Road,Auburn Hills,MI,48326,2482531902,42.7007,-83.2999,traditional,https://orderonline.steaknshake.com/o/restaurant/18242
+23829,Steak n Shake,1680 S. Orange Blossomtrail,Apopka,FL,32703,4078846485,28.6518,-81.4676,traditional,https://orderonline.steaknshake.com/o/restaurant/18245
+23831,Steak n Shake,9530 Diamond Center Drive,Mentor,OH,44060,4406398734,41.7141,-81.2996,traditional,https://orderonline.steaknshake.com/o/restaurant/18246
+23833,Steak n Shake,6737 Darter Court,Fort Pierce,FL,34945,7724645380,27.4133,-80.3931,traditional,https://orderonline.steaknshake.com/o/restaurant/18247
+23835,Steak n Shake,2567 E State Rd 60,Valrico,FL,33594,8136573558,27.9413,-82.2436,traditional,https://orderonline.steaknshake.com/o/restaurant/18293
+23837,Steak n Shake,675 Meacham Rd,Elk Grove Village,IL,60007,8475241850,42.0066,-88.0458,traditional,https://orderonline.steaknshake.com/o/restaurant/18296
+23839,Steak n Shake,951 W Arbrook Drive,Arlington,TX,76015,8174728300,32.6827,-97.1212,traditional,https://orderonline.steaknshake.com/o/restaurant/18299
+23841,Steak n Shake,5020 Overton Ridge Blvd,Ft. Worth,TX,76132,8173707057,32.6771,-97.4048,traditional,https://orderonline.steaknshake.com/o/restaurant/18300
+23843,Steak n Shake,2272 E Lamar Blvd,Arlington,TX,76006,8176523663,32.7609,-97.0701,traditional,https://orderonline.steaknshake.com/o/restaurant/18305
+23845,Steak n Shake,2545 E. Highway 50,Clermont,FL,34711,3522432003,28.5461,-81.7108,traditional,https://orderonline.steaknshake.com/o/restaurant/18306
+23847,Steak n Shake,32751 Concord Drive,Madison Heights,MI,48071,2485881355,42.5323,-83.113,traditional,https://orderonline.steaknshake.com/o/restaurant/18344
+23849,Steak n Shake,2736 Cobb Parkway,Smyrna,GA,30080,7709522744,33.8887,-84.4743,traditional,https://orderonline.steaknshake.com/o/restaurant/18346
+23851,Steak n Shake,2118 Mt. Zion Parkway,Morrow,GA,30260,7704720220,33.5629,-84.3214,traditional,https://orderonline.steaknshake.com/o/restaurant/18349
+23853,Steak n Shake,820 Lawrenceville Suwanee Rd.,Lawrenceville,GA,30043,7709621600,34.0322,-84.0483,traditional,https://orderonline.steaknshake.com/o/restaurant/18350
+23855,Steak n Shake,2110 Pleasant Hill Rd.,Duluth,GA,30096,7706238600,33.9573,-84.1333,traditional,https://orderonline.steaknshake.com/o/restaurant/18351
+23857,Steak n Shake,2355 North Point Court,Alpharetta,GA,30022,7707511101,34.0482,-84.2885,traditional,https://orderonline.steaknshake.com/o/restaurant/18352
+23859,Steak n Shake,1249 Highway 34 East,Newnan,GA,30265,7702521181,33.3985,-84.7306,traditional,https://orderonline.steaknshake.com/o/restaurant/18354
+23861,Steak n Shake,1875 East - West Connector SW,Austell,GA,30106,7707452794,33.8605,-84.6187,traditional,https://orderonline.steaknshake.com/o/restaurant/18356
+23863,Steak n Shake,2905 Stonecrest Circle,Lithonia,GA,30038,7704821117,33.7012,-84.0887,traditional,https://orderonline.steaknshake.com/o/restaurant/18357
+23865,Steak n Shake,2291 Spider Drive,Kannapolis,NC,28083,7042622262,35.4724,-80.5923,traditional,https://orderonline.steaknshake.com/o/restaurant/18360
+23867,Steak n Shake,9300 S. I-35,Austin,TX,78748,5122918095,30.1635,-97.7905,traditional,https://orderonline.steaknshake.com/o/restaurant/19555
+23869,Steak n Shake,1759 Stringtown Road,Grove City,OH,43123,6148719536,39.8786,-83.0431,traditional,https://orderonline.steaknshake.com/o/restaurant/18307
+23871,Steak n Shake,1210 Linton Blvd,Delray Beach,FL,33444,5612721102,26.4382,-80.0858,traditional,https://orderonline.steaknshake.com/o/restaurant/18309
+23873,Steak n Shake,677 Gravios Bluffs Boulevard,Fenton,MO,63026,6363494538,38.5076,-90.4423,traditional,https://orderonline.steaknshake.com/o/restaurant/18314
+23877,Steak n Shake,6259 Kalamazoo Avenue,Kentwood,MI,49508,6165541919,42.8499,-85.6247,traditional,https://orderonline.steaknshake.com/o/restaurant/18320
+23879,Steak n Shake,9414 Civic Center Boulevard,West Chester,OH,45069,5137595888,39.3206,-84.4213,traditional,https://orderonline.steaknshake.com/o/restaurant/18321
+23881,Steak n Shake,8800 Owenfield Drive,Powell,OH,43065,7405481783,40.1616,-83.0202,traditional,https://orderonline.steaknshake.com/o/restaurant/18323
+23883,Steak n Shake,542 N. Marketplace Blvd,Lansing,MI,48917,5176228687,42.74,-84.6742,traditional,https://orderonline.steaknshake.com/o/restaurant/18326
+23885,Steak n Shake,52965 State Road 933 North,South Bend,IN,46637,5742719412,41.7241,-86.251,traditional,https://orderonline.steaknshake.com/o/restaurant/18327
+23887,Steak n Shake,11700 University Boulevard,Orlando,FL,32817,4073822121,28.5969,-81.2158,traditional,https://orderonline.steaknshake.com/o/restaurant/18328
+23889,Steak n Shake,1820 W. Eldorado Parkway,Mckinney,TX,75069,9725474662,33.1725,-96.6376,traditional,https://orderonline.steaknshake.com/o/restaurant/18330
+23891,Steak n Shake,2455 Jalynn Street,Warsaw,IN,46582,5742670004,41.2696,-85.8536,traditional,https://orderonline.steaknshake.com/o/restaurant/18332
+23893,Steak n Shake,10661 San Jose Boulevard,Jacksonville,FL,32257,9048863484,30.1843,-81.6278,traditional,https://orderonline.steaknshake.com/o/restaurant/18333
+23895,Steak n Shake,2202 W. Southport Road,Indianapolis,IN,46217,3178840082,39.6641,-86.1984,traditional,https://orderonline.steaknshake.com/o/restaurant/18334
+23897,Steak n Shake,8950 Colonial Center Drive,Ft. Myers,FL,33905,2399310090,26.6137,-81.8074,traditional,https://orderonline.steaknshake.com/o/restaurant/18337
+23899,Steak n Shake,5790 S. University Drive,Davie,FL,33328,9544340576,26.048,-80.2511,traditional,https://orderonline.steaknshake.com/o/restaurant/18341
+23901,Steak n Shake,10131 Bloomingdale Avenue,Riverview,FL,33578,8136301016,27.8936,-82.3342,traditional,https://orderonline.steaknshake.com/o/restaurant/18343
+23903,Steak n Shake,3615 N. Ridge East,Ashtabula,OH,44004,4409925280,41.8818,-80.7476,traditional,https://orderonline.steaknshake.com/o/restaurant/18272
+23905,Steak n Shake,17312 Chesterfield Airport Road,Chesterfield,MO,63005,6365197167,38.6684,-90.6029,traditional,https://orderonline.steaknshake.com/o/restaurant/18273
+23907,Steak n Shake,889 N. Bridge Street,Chillicothe,OH,45601,7402171194,39.3545,-82.976,traditional,https://orderonline.steaknshake.com/o/restaurant/18276
+23909,Steak n Shake,9545 State Route 14,Streetsboro,OH,44241,3306261429,41.2468,-81.3596,traditional,https://orderonline.steaknshake.com/o/restaurant/18278
+23911,Steak n Shake,3853 Tampa Rd.,Oldsmar,FL,34677,8138147865,28.0426,-82.6726,traditional,https://orderonline.steaknshake.com/o/restaurant/18280
+23913,Steak n Shake,50840 Valley Frontage Rd.,St. Clairsville,OH,43950,7406992812,40.0697,-80.9023,traditional,https://orderonline.steaknshake.com/o/restaurant/18283
+23915,Steak n Shake,520 N. Town Center Rd.,Mooresville,IN,46158,3178311600,39.6169,-86.3548,traditional,https://orderonline.steaknshake.com/o/restaurant/18285
+23917,Steak n Shake,1951 Park Manor Blvd,Pittsburgh,PA,15205,4127888644,40.4585,-80.1723,traditional,https://orderonline.steaknshake.com/o/restaurant/18288
+23919,Steak n Shake,5051 Som Center Rd.,Willoughby,OH,44094,4402204817,41.6234,-81.4393,traditional,https://orderonline.steaknshake.com/o/restaurant/18289
+23921,Steak n Shake,3440 Preston Rd.,Frisco,TX,75034,9723340340,33.1078,-96.8052,traditional,https://orderonline.steaknshake.com/o/restaurant/18292
+23923,Steak n Shake,4684 N. Patterson Ave.,Winston-salem,NC,27105,3367443335,36.0685,-80.2276,traditional,https://orderonline.steaknshake.com/o/restaurant/19570
+23925,Steak n Shake,253 Goodman Road West,Southaven,MS,38671,6623492923,34.9625,-89.9945,traditional,https://orderonline.steaknshake.com/o/restaurant/19572
+23927,Steak n Shake,8477 Highway 64,Memphis,TN,38133,9013805880,35.2053,-89.774,traditional,https://orderonline.steaknshake.com/o/restaurant/19573
+23931,Steak n Shake,1715 South 46th Street,Rogers,AR,72758,4799368865,36.316,-94.1826,traditional,https://orderonline.steaknshake.com/o/restaurant/19581
+23933,Steak n Shake,838 Turner Mccall Blvd SW,Rome,GA,30161,7062048657,34.2606,-85.1673,traditional,https://orderonline.steaknshake.com/o/restaurant/19616
+23935,Steak n Shake,12209 South Strang Line Road,Olathe,KS,66062,9133900015,38.9053,-94.7783,traditional,https://orderonline.steaknshake.com/o/restaurant/19589
+23937,Steak n Shake,20950 Katy Freeway,Katy,TX,77449,2815781987,29.7856,-95.7352,traditional,https://orderonline.steaknshake.com/o/restaurant/19608
+23939,Steak n Shake,9500 North East Barry Rd.,Kansas City,MO,64157,8164071007,39.245,-94.4577,traditional,https://orderonline.steaknshake.com/o/restaurant/19592
+23941,Steak n Shake,2017 Highway 192 West,London,KY,40741,6068772712,37.079,-84.137,traditional,https://orderonline.steaknshake.com/o/restaurant/19595
+23943,Steak n Shake,655 Schillinger Road South,Mobile,AL,36695,2516339900,30.6814,-88.2249,traditional,https://orderonline.steaknshake.com/o/restaurant/19600
+23945,Steak n Shake,500 Greengate Center Circle,Greensburg,PA,15601,7248363181,40.3094,-79.5777,traditional,https://orderonline.steaknshake.com/o/restaurant/18365
+23947,Steak n Shake,1925 Dorothy Lane,Moraine,OH,45439,9372999140,39.7092,-84.2039,traditional,https://orderonline.steaknshake.com/o/restaurant/18370
+23949,Steak n Shake,2761 Cherry Road,Rock Hill,SC,29730,8036260384,34.9755,-80.9838,traditional,https://orderonline.steaknshake.com/o/restaurant/18374
+23951,Steak n Shake,635 River Highway,Mooresville,NC,28117,7047469231,35.5963,-80.8765,traditional,https://orderonline.steaknshake.com/o/restaurant/18376
+23953,Steak n Shake,630 S. Sutton Road,Streamwood,IL,60107,6304978109,42.0207,-88.2037,traditional,https://orderonline.steaknshake.com/o/restaurant/18377
+23955,Steak n Shake,1640 Us Highway 231,Crawfordsville,IN,47933,7653590802,40.0157,-86.9033,traditional,https://orderonline.steaknshake.com/o/restaurant/18379
+23957,Steak n Shake,1015 James Avenue,Bedford,IN,47421,8122755616,38.8672,-86.5189,traditional,https://orderonline.steaknshake.com/o/restaurant/18383
+23959,Steak n Shake,2656 E. Franklin Boulevard,Gastonia,NC,28056,7048543440,35.2608,-81.1305,traditional,https://orderonline.steaknshake.com/o/restaurant/18385
+23961,Steak n Shake,7020 Aurora Road,Aurora,OH,44202,3302226303,41.3568,-81.3899,traditional,https://orderonline.steaknshake.com/o/restaurant/18387
+23963,Steak n Shake,3101 Phoenix Center Drive,Washington,MO,63090,6362390063,38.5384,-90.9902,traditional,https://orderonline.steaknshake.com/o/restaurant/18390
+23965,Steak n Shake,3333 W. Kimberly Road,Davenport,IA,52806,5634682600,41.5597,-90.6255,traditional,https://orderonline.steaknshake.com/o/restaurant/18392
+23967,Steak n Shake,2611 Peachtree Parkway,Suwanee,GA,30024,6789654722,34.0956,-84.1764,traditional,https://orderonline.steaknshake.com/o/restaurant/18393
+23969,Steak n Shake,230 Golfview Drive,Monaca,PA,15061,7247284120,40.6775,-80.3111,traditional,https://orderonline.steaknshake.com/o/restaurant/18395
+23971,Steak n Shake,4545 Outer Loop,Louisville,KY,40219,5029663109,38.1381,-85.6781,traditional,https://orderonline.steaknshake.com/o/restaurant/18397
+23973,Steak n Shake,980 East Lewis And Clark Parkway,Clarksville,IN,47129,8122851154,38.3167,-85.7568,traditional,https://orderonline.steaknshake.com/o/restaurant/18399
+23975,Steak n Shake,1627 N. Dixie Hwy.,Elizabethtown,KY,42701,2707631120,37.7296,-85.8846,traditional,https://orderonline.steaknshake.com/o/restaurant/18400
+23977,Steak n Shake,4913 Dixie Hwy,Louisville,KY,40216,5024484400,38.1704,-85.8269,traditional,https://orderonline.steaknshake.com/o/restaurant/18406
+23979,Steak n Shake,1158 St. Louis Street,Springfield,MO,65806,4178666109,37.2093,-93.2761,traditional,https://orderonline.steaknshake.com/o/restaurant/19538
+23981,Steak n Shake,2760 North Glenstone,Springfield,MO,65803,4178639072,37.2473,-93.2605,traditional,https://orderonline.steaknshake.com/o/restaurant/19541
+23983,Steak n Shake,3115 East Hammons,Joplin,MO,64804,4176268088,37.0496,-94.4765,traditional,https://orderonline.steaknshake.com/o/restaurant/19582
+23985,Steak n Shake,1912 West Worley,Columbia,MO,65203,5734453097,38.9607,-92.3685,traditional,https://orderonline.steaknshake.com/o/restaurant/19557
+23987,Steak n Shake,2519 Missouri Boulevard,Jefferson City,MO,65109,5736369553,38.5815,-92.218,traditional,https://orderonline.steaknshake.com/o/restaurant/19558
+23989,Steak n Shake,3920 Osage Beach Parkway,Osage Beach,MO,65065,5733480090,38.1586,-92.6044,traditional,https://orderonline.steaknshake.com/o/restaurant/19560
+23991,Steak n Shake,2296 Gunbarrel Road,Chattanooga,TN,37421,4238922993,35.0398,-85.1497,traditional,https://orderonline.steaknshake.com/o/restaurant/19561
+23993,Steak n Shake,5118 Hixson Pike,Chattanooga,TN,37343,4238740700,35.1356,-85.2385,traditional,https://orderonline.steaknshake.com/o/restaurant/19562
+23995,Steak n Shake,1250 W. Walnut Avenue,Dalton,GA,30720,7062723300,34.759,-84.9887,traditional,https://orderonline.steaknshake.com/o/restaurant/19563
+23997,Steak n Shake,"220 Paul Huff Parkway, NW",Cleveland,TN,37312,4236147300,35.2231,-84.868,traditional,https://orderonline.steaknshake.com/o/restaurant/19564
+23999,Steak n Shake,4409 Wendover Ave.,Greensboro,NC,27407,3362180807,36.0559,-79.8924,traditional,https://orderonline.steaknshake.com/o/restaurant/19567
+24001,Steak n Shake,3120 Garden Road,Burlington,NC,27215,3365851222,36.0687,-79.4985,traditional,https://orderonline.steaknshake.com/o/restaurant/19568
+24003,Steak n Shake,2250 Mt. Zion Rd,Decatur,IL,62521,2178646592,39.8165,-88.8772,traditional,https://orderonline.steaknshake.com/o/restaurant/17995
+24005,Steak n Shake,5635 W. 38th Street,Indianapolis,IN,46254,3172935077,39.8231,-86.2606,traditional,https://orderonline.steaknshake.com/o/restaurant/18009
+24007,Steak n Shake,4320 West Main,Belleville,IL,62226,6182350770,38.5185,-90.0038,traditional,https://orderonline.steaknshake.com/o/restaurant/18028
+24009,Steak n Shake,1001 Wylie Drive,Bloomington,IL,61704,3098282222,40.4877,-89.0365,traditional,https://orderonline.steaknshake.com/o/restaurant/18079
+24011,Steak n Shake,540 E. Edgewood Blvd,Lansing,MI,48911,5172723038,42.6645,-84.5436,traditional,https://orderonline.steaknshake.com/o/restaurant/18213
+24013,Steak n Shake,8311 Old Troy Pike,Huber Heights,OH,45424,9372353118,39.8716,-84.1383,traditional,https://orderonline.steaknshake.com/o/restaurant/18132
+24015,Steak n Shake,13849 Manchester Road,Ballwin,MO,63011,3148351677,38.5967,-90.483,traditional,https://orderonline.steaknshake.com/o/restaurant/18025
+24017,Steak n Shake,5827 E. 71st Street,Indianapolis,IN,46220,3178493577,39.883,-86.0691,traditional,https://orderonline.steaknshake.com/o/restaurant/18042
+24019,Steak n Shake,3909 Mexico Road,St. Peters,MO,63376,6364421016,38.7907,-90.5663,traditional,https://orderonline.steaknshake.com/o/restaurant/18059
+24021,Steak n Shake,2403 Post Drive,Indianapolis,IN,46219,3178901401,39.8025,-86.0105,traditional,https://orderonline.steaknshake.com/o/restaurant/18121
+24023,Steak n Shake,16902 Clover Rd.,Noblesville,IN,46060,3177763855,40.0346,-85.9964,traditional,https://orderonline.steaknshake.com/o/restaurant/18198
+24025,Steak n Shake,1760 Us Highway 1 South,St. Augustine,FL,32084,9048247229,29.869,-81.3219,traditional,https://orderonline.steaknshake.com/o/restaurant/18209
+24027,Steak n Shake,5960 East Main Street,Columbus,OH,43213,6145011530,39.9549,-82.8397,traditional,https://orderonline.steaknshake.com/o/restaurant/18230
+24029,Steak n Shake,1700 Broad Ave,Findlay,OH,45840,4194291490,41.0606,-83.6646,traditional,https://orderonline.steaknshake.com/o/restaurant/18241
+24031,Steak n Shake,1901 Mckee Street,Batavia,IL,60510,6304829846,41.8546,-88.3385,traditional,https://orderonline.steaknshake.com/o/restaurant/18253
+24033,Steak n Shake,650 E Waterfront Dr E,Munhall,PA,15120,4124616545,40.4141,-79.9051,traditional,https://orderonline.steaknshake.com/o/restaurant/18277
+24035,Steak n Shake,10600 Fowler St.,Ft. Myers,FL,33907,2392749500,26.5888,-81.8697,traditional,https://orderonline.steaknshake.com/o/restaurant/18284
+24037,Steak n Shake,2121 North State Street,Greenfield,IN,46140,3174671581,39.8159,-85.7697,traditional,https://orderonline.steaknshake.com/o/restaurant/18304
+24039,Steak n Shake,2620 Pine Ridge Road,Naples,FL,34109,2392621039,26.2107,-81.7648,traditional,https://orderonline.steaknshake.com/o/restaurant/18310
+24041,Steak n Shake,1607 County Road 220,Orange Park,FL,32003,9048304541,30.1025,-81.7056,traditional,https://orderonline.steaknshake.com/o/restaurant/18384
+24043,Steak n Shake,3409 Us Hwy 60 East,Barboursville,WV,25504,3047332051,38.4148,-82.2871,traditional,https://orderonline.steaknshake.com/o/restaurant/19596
+24047,Steak n Shake,1415 Wanamaker Road,Topeka,KS,66604,7852739711,39.0417,-95.7623,traditional,https://orderonline.steaknshake.com/o/restaurant/19586
+24049,Steak n Shake,4480 Park Street,St Petersburg,FL,33709,7275450948,27.8125,-82.7545,traditional,https://orderonline.steaknshake.com/o/restaurant/18169
+24051,Steak n Shake,16201  N. Dale Mabry Highway,Tampa,FL,33618,8139081567,28.0965,-82.5014,traditional,https://orderonline.steaknshake.com/o/restaurant/18223
+24059,Steak n Shake,1125 Interstate Dr.,Cookeville,TN,38501,9315256742,36.1384,-85.5067,traditional,https://orderonline.steaknshake.com/o/restaurant/18261
+24061,Steak n Shake,15125 Montfort Drive,Dallas,TX,75248,9727884103,32.955,-96.8189,traditional,https://orderonline.steaknshake.com/o/restaurant/18339
+24063,Steak n Shake,5006 Crossings Circle,Mt. Juliet,TN,37122,6152030294,36.2044,-86.5186,traditional,https://orderonline.steaknshake.com/o/restaurant/18382
+24065,Steak n Shake,501 Stonewood Drive,Broken Arrow,OK,74012,9183556405,36.0728,-95.7923,traditional,https://orderonline.steaknshake.com/o/restaurant/19579
+24067,Steak n Shake,13621 East 40th Hwy.,Independence,MO,64055,8164781452,39.0355,-94.4196,traditional,https://orderonline.steaknshake.com/o/restaurant/19590
+24069,Steak n Shake,7561 E. State Street,Rockford,IL,61108,8153959250,42.2698,-88.9688,traditional,https://orderonline.steaknshake.com/o/restaurant/18086
+24071,Steak n Shake,4949 Ridge Avenue,Cincinnati,OH,45209,5133734253,39.1631,-84.4212,traditional,https://orderonline.steaknshake.com/o/restaurant/18322
+24073,Steak n Shake,4929 N. Old Pike Road,Gladstone,MO,64118,8164538003,39.1828,-94.5817,traditional,https://orderonline.steaknshake.com/o/restaurant/19593
+24075,Steak n Shake,1315 Ireland Road,South Bend,IN,46614,5742999936,41.6297,-86.2296,traditional,https://orderonline.steaknshake.com/o/restaurant/18091
+24077,Steak n Shake,5402 Meijer Dr.,Ft. Wayne,IN,46835,2607483200,41.131,-85.013,traditional,https://orderonline.steaknshake.com/o/restaurant/18176
+24079,Steak n Shake,1330 E. Pershing,Decatur,IL,62526,2178773231,39.8773,-88.9393,traditional,https://orderonline.steaknshake.com/o/restaurant/18000
+24081,Steak n Shake,5885 Suemandy Drive,St. Peters,MO,63376,6369702622,38.7986,-90.624,traditional,https://orderonline.steaknshake.com/o/restaurant/18104
+24083,Steak n Shake,2315 S. Dale Mabry,Tampa,FL,33629,8132513350,27.924,-82.5061,traditional,https://orderonline.steaknshake.com/o/restaurant/18033
+24085,Steak n Shake,2490 S.r. 580,Clearwater,FL,33761,7277961648,28.02,-82.7342,traditional,https://orderonline.steaknshake.com/o/restaurant/18175
+24087,Steak n Shake,2313 Cobbs Ford Road,Prattville,AL,36066,3342900035,32.4603,-86.4,traditional,https://orderonline.steaknshake.com/o/restaurant/19601
+24089,Steak n Shake,106 Cortez Road East,Bradenton,FL,34203,9417553673,27.462,-82.5629,traditional,https://orderonline.steaknshake.com/o/restaurant/18037
+24091,Steak n Shake,7485 Foltz Drive,Florence,KY,41042,8596471100,39.0159,-84.6372,traditional,https://orderonline.steaknshake.com/o/restaurant/18093
+24093,Steak n Shake,21 Maplehurst Drive,Brownsburg,IN,46112,3178587610,39.8618,-86.394,traditional,https://orderonline.steaknshake.com/o/restaurant/18162
+24095,Steak n Shake,2600 N.w. Federal Hwy,Stuart,FL,34994,7726922702,27.2363,-80.2697,traditional,https://orderonline.steaknshake.com/o/restaurant/18185
+24099,Steak n Shake,14646 Manchester Road,Ballwin,MO,63011,6362077100,38.5924,-90.5296,traditional,https://orderonline.steaknshake.com/o/restaurant/18160
+24101,Steak n Shake,6231 Us Hwy 6,Portage,IN,46368,2197620545,41.5499,-87.1738,traditional,https://orderonline.steaknshake.com/o/restaurant/18265
+24103,Steak n Shake,5342 S. Westnedge,Portage,MI,49002,2693451488,42.2388,-85.5901,traditional,https://orderonline.steaknshake.com/o/restaurant/18114
+24105,Steak n Shake,3201 N. Vermilion,Danville,IL,61832,2174468167,40.1753,-87.6299,traditional,https://orderonline.steaknshake.com/o/restaurant/18043
+24107,Steak n Shake,40 Town Center Circle,Sanford,FL,32771,4073288300,28.8074,-81.3373,traditional,https://orderonline.steaknshake.com/o/restaurant/18143
+24109,Steak n Shake,1501 Algonquin Rd.,Rolling Meadows,IL,60008,8472286657,42.0541,-87.9974,traditional,https://orderonline.steaknshake.com/o/restaurant/18335
+24111,Steak n Shake,14909 Thatcher Lane,Carmel,IN,46032,3175800890,40.0047,-86.1262,traditional,https://orderonline.steaknshake.com/o/restaurant/18090
+24113,Steak n Shake,855 Highway 121,Lewisville,TX,75067,2144888000,32.999,-96.9618,traditional,https://orderonline.steaknshake.com/o/restaurant/18294
+24115,Steak n Shake,4074 N Mall Avenue,Fayetteville,AR,72703,4794446343,36.1257,-94.1476,traditional,https://orderonline.steaknshake.com/o/restaurant/19580
+24117,Steak n Shake,1680 Scottsville Rd.,Bowling Green,KY,42104,2707839260,36.9703,-86.4341,traditional,https://orderonline.steaknshake.com/o/restaurant/18404
+24119,Steak n Shake,2999 Watson Blvd,Warner Robins,GA,31093,4789530596,32.6172,-83.6893,traditional,https://orderonline.steaknshake.com/o/restaurant/19602
+24121,Steak n Shake,155 Tom Hill Senior Blvd.,Macon,GA,31210,4784775112,32.9011,-83.6869,traditional,https://orderonline.steaknshake.com/o/restaurant/19603
+24123,Steak n Shake,1386 W Hwy 376,Branson,MO,65616,4173362565,36.6521,-93.3003,traditional,https://orderonline.steaknshake.com/o/restaurant/19536
+24125,Steak n Shake,1960 W. Morton Avenue,Jacksonville,IL,62650,2172459422,39.7228,-90.266,traditional,https://orderonline.steaknshake.com/o/restaurant/19546
+24127,Steak n Shake,3184 S. Dirksen Parkway,Springfield,IL,62703,2175295823,39.7587,-89.6083,traditional,https://orderonline.steaknshake.com/o/restaurant/19547
+24129,Steak n Shake,500 East Emory Road,Powell,TN,37849,8659477066,36.0501,-83.9959,traditional,https://orderonline.steaknshake.com/o/restaurant/19583
+24131,Steak n Shake,7791 Peach St.,Erie,PA,16509,8147464568,42.0514,-80.0827,traditional,https://orderonline.steaknshake.com/o/restaurant/19585
+24133,Steak n Shake,746 Maple Valley Drive,Farmington,MO,63640,5737600100,37.7934,-90.4368,traditional,https://orderonline.steaknshake.com/o/restaurant/19554
+24135,Steak n Shake,3061 Route K,Cape Girardeau,MO,63701,5733340223,37.3018,-89.5742,traditional,https://orderonline.steaknshake.com/o/restaurant/19552
+24137,Steak n Shake,7715 N. University,Peoria,IL,61614,3096925577,40.7811,-89.6214,traditional,https://orderonline.steaknshake.com/o/restaurant/18001
+24139,Steak n Shake,825 Barrett Parkway,Kennesaw,GA,30144,7704991059,34.0046,-84.5751,traditional,https://orderonline.steaknshake.com/o/restaurant/18348
+24141,Steak n Shake,8511 Concord Mills Blvd.,Concord,NC,28027,7048377575,35.3707,-80.7175,traditional,https://orderonline.steaknshake.com/o/restaurant/18359
+24143,Steak n Shake,1870 Memorial Lane,Wood River,IL,62095,6182590708,38.8678,-90.0661,traditional,https://orderonline.steaknshake.com/o/restaurant/18366
+24145,Steak n Shake,6728 Colonnade Avenue,Viera,FL,32940,3216379445,28.2435,-80.729,traditional,https://orderonline.steaknshake.com/o/restaurant/18373
+24147,Steak n Shake,"5901 University Drive, Suite I",Huntsville,AL,35806,2564176751,34.7402,-86.6655,traditional,https://orderonline.steaknshake.com/o/restaurant/18386
+24149,Steak n Shake,3294 Steelyard Drive,Cleveland,OH,44109,2165392297,41.4644,-81.6883,traditional,https://orderonline.steaknshake.com/o/restaurant/18389
+24151,Steak n Shake,10721 Fischer Park Drive,Louisville,KY,40241,5023263625,38.297,-85.553,traditional,https://orderonline.steaknshake.com/o/restaurant/18405
+24153,Steak n Shake,4640 Chippewa,St. Louis,MO,63116,3144806566,38.5911,-90.2715,traditional,https://orderonline.steaknshake.com/o/restaurant/18019
+24155,Steak n Shake,6019 Illinois Road,Ft. Wayne,IN,46804,2604321958,41.0739,-85.219,traditional,https://orderonline.steaknshake.com/o/restaurant/18096
+24157,Steak n Shake,3170 Towne Boulevard,Middletown,OH,45044,5134220206,39.4925,-84.3299,traditional,https://orderonline.steaknshake.com/o/restaurant/18111
+24159,Steak n Shake,768 S.r. 44,Wildwood,FL,34785,3523302101,28.8737,-82.0906,traditional,https://orderonline.steaknshake.com/o/restaurant/18139
+24161,Steak n Shake,6070 Gurnee Mills Circle E.,Gurnee,IL,60031,8478550520,42.3867,-87.9525,traditional,https://orderonline.steaknshake.com/o/restaurant/18187
+24163,Steak n Shake,1501 E. 86th Street,Indianapolis,IN,46240,3176442073,39.9123,-86.1342,traditional,https://orderonline.steaknshake.com/o/restaurant/18011
+24165,Steak n Shake,11035 Bellefontaine,St. Louis,MO,63138,3148699151,38.7715,-90.2211,traditional,https://orderonline.steaknshake.com/o/restaurant/18016
+24167,Steak n Shake,80 Homer Adams Parkway,Alton,IL,62002,6182080571,38.9241,-90.1815,traditional,https://orderonline.steaknshake.com/o/restaurant/18017
+24169,Steak n Shake,13426 Olive Boulevard,Chesterfield,MO,63017,3144347512,38.6799,-90.4982,traditional,https://orderonline.steaknshake.com/o/restaurant/18041
+24171,Steak n Shake,295 E. Altamonte Drive,Altamonte Springs,FL,32701,4078301500,28.6628,-81.3825,traditional,https://orderonline.steaknshake.com/o/restaurant/18045
+24173,Steak n Shake,408 S. Gilbert Street,Danville,IL,61832,2174431092,40.1128,-87.6356,traditional,https://orderonline.steaknshake.com/o/restaurant/18054
+24175,Steak n Shake,130 N. 44th Street,Mt. Vernon,IL,62864,6182449466,38.3144,-88.9485,traditional,https://orderonline.steaknshake.com/o/restaurant/18063
+24177,Steak n Shake,76 S. Highway Drive,Valley Park,MO,63088,6368611171,38.5385,-90.4929,traditional,https://orderonline.steaknshake.com/o/restaurant/18066
+24179,Steak n Shake,2010 N. Prospect Ave.,Champaign,IL,61822,2173981606,40.141,-88.2579,traditional,https://orderonline.steaknshake.com/o/restaurant/18071
+24181,Steak n Shake,101 West Maryland,Indianapolis,IN,46225,3176348703,39.7652,-86.1605,traditional,https://orderonline.steaknshake.com/o/restaurant/19095
+24183,Steak n Shake,4500 S. Hwy. 17-92,Casselberry,FL,32707,4072605225,28.6703,-81.3389,traditional,https://orderonline.steaknshake.com/o/restaurant/18148
+24185,Steak n Shake,2700 S. Semoran Blvd,Orlando,FL,32822,4073803733,28.5136,-81.3107,traditional,https://orderonline.steaknshake.com/o/restaurant/18151
+24187,Steak n Shake,6380 Wilmington Pike,Dayton,OH,45459,9378489846,39.6355,-84.11,traditional,https://orderonline.steaknshake.com/o/restaurant/18159
+24189,Steak n Shake,9560 Regency Sq. Blvd. N.,Jacksonville,FL,32225,9047255175,30.3293,-81.5499,traditional,https://orderonline.steaknshake.com/o/restaurant/18171
+24191,Steak n Shake,4550 28th St. S.e.,Kentwood,MI,49512,6169577770,42.9118,-85.5559,traditional,https://orderonline.steaknshake.com/o/restaurant/18182
+24193,Steak n Shake,720 W. 81st St.,Merrillville,IN,46410,2197368901,41.4716,-87.3459,traditional,https://orderonline.steaknshake.com/o/restaurant/18196
+24195,Steak n Shake,515 Ley Drive,Auburn,IN,46706,2609251184,41.3629,-85.0824,traditional,https://orderonline.steaknshake.com/o/restaurant/18201
+24197,Steak n Shake,10421 Touhy Ave.,Rosemont,IL,60018,8472993944,42.0083,-87.8883,traditional,https://orderonline.steaknshake.com/o/restaurant/18211
+24199,Steak n Shake,2091 Old Fort Parkway,Murfreesboro,TN,37129,6159073445,35.8469,-86.4318,traditional,https://orderonline.steaknshake.com/o/restaurant/18220
+24201,Steak n Shake,4620 Milan Rd.,Sandusky,OH,44870,4196259214,41.4125,-82.6679,traditional,https://orderonline.steaknshake.com/o/restaurant/18225
+24203,Steak n Shake,1684 Home Avenue,Akron,OH,44310,3306337692,41.1169,-81.4855,traditional,https://orderonline.steaknshake.com/o/restaurant/18228
+24205,Steak n Shake,1880 Polaris Pkwy,Columbus,OH,43240,6148464141,40.1433,-82.9682,traditional,https://orderonline.steaknshake.com/o/restaurant/18231
+24207,Steak n Shake,6880 Ridge Road,Parma,OH,44129,4408879201,41.3773,-81.7348,traditional,https://orderonline.steaknshake.com/o/restaurant/18240
+24209,Steak n Shake,4120 N. State Road 7,Coral Springs,FL,33073,9547527180,26.2805,-80.2026,traditional,https://orderonline.steaknshake.com/o/restaurant/18264
+24211,Steak n Shake,17509 N. Palms Village Place,Tampa,FL,33647,8139788819,28.1277,-82.3669,traditional,https://orderonline.steaknshake.com/o/restaurant/18267
+24213,Steak n Shake,8701 S.w. 157th Ave.,Miami,FL,33193,3057522060,25.6859,-80.446,traditional,https://orderonline.steaknshake.com/o/restaurant/18274
+24215,Steak n Shake,2205 E Grapevine Mills Circle,Grapevine,TX,76051,9727242260,32.9608,-97.0429,traditional,https://orderonline.steaknshake.com/o/restaurant/18282
+24217,Steak n Shake,11665 Commercial Dr.,Fishers,IN,46038,3175851650,39.958,-86.0107,traditional,https://orderonline.steaknshake.com/o/restaurant/18287
+24219,Steak n Shake,2121 Willow Road,Glenview,IL,60025,8477298911,42.1051,-87.8133,traditional,https://orderonline.steaknshake.com/o/restaurant/18297
+24221,Steak n Shake,2313 N Central Expressway,Plano,TX,75075,9725091112,33.0318,-96.7086,traditional,https://orderonline.steaknshake.com/o/restaurant/18301
+24223,Steak n Shake,5534 St. Louis Mills Blvd,Hazelwood,MO,63042,3142919450,38.7839,-90.4143,traditional,https://orderonline.steaknshake.com/o/restaurant/18311
+24225,Steak n Shake,597 E Aurora Rd,Macedonia,OH,44056,3302226301,41.3139,-81.5174,traditional,https://orderonline.steaknshake.com/o/restaurant/18317
+24227,Steak n Shake,5180 NE 24th St.,Ocala,FL,34470,3524380057,29.2115,-82.0635,traditional,https://orderonline.steaknshake.com/o/restaurant/18254
+24229,Steak n Shake,914 Zane Street,Zanesville,OH,43701,7405889015,39.9477,-81.9988,traditional,https://orderonline.steaknshake.com/o/restaurant/18257
+24231,Steak n Shake,3350 N. Morrison Rd.,Muncie,IN,47304,7652884366,40.2194,-85.4412,traditional,https://orderonline.steaknshake.com/o/restaurant/18056
+24233,Steak n Shake,1400 Broadway Ave. E.,Mattoon,IL,61938,2172351318,39.4859,-88.3266,traditional,https://orderonline.steaknshake.com/o/restaurant/18078
+24235,Steak n Shake,1402 W. Brandon Blvd.,Brandon,FL,33511,8136546900,27.9383,-82.3046,traditional,https://orderonline.steaknshake.com/o/restaurant/18048
+24237,Steak n Shake,818 S. Orlando Ave.,Winter Park,FL,32789,4076454452,28.5907,-81.3647,traditional,https://orderonline.steaknshake.com/o/restaurant/18031
+24239,Steak n Shake,2839 N. Druid Hills Road,Atlanta,GA,30329,4045495346,33.8173,-84.3122,traditional,https://orderonline.steaknshake.com/o/restaurant/18394
+24241,Steak n Shake,8157 E. 96th Street,Indianapolis,IN,46256,3178425963,39.9263,-86.0237,traditional,https://orderonline.steaknshake.com/o/restaurant/18126
+24243,Steak n Shake,4429 Old Union Road,Tifton,GA,31794,2293876000,31.4291,-83.5163,traditional,https://orderonline.steaknshake.com/o/restaurant/18204
+24245,Steak n Shake,4000 Medina Road,Akron,OH,44333,3306709593,41.1359,-81.6435,traditional,https://orderonline.steaknshake.com/o/restaurant/18234
+24247,Steak n Shake,2141 S. Reynolds Rd.,Toledo,OH,43614,4193816805,41.6007,-83.6646,traditional,https://orderonline.steaknshake.com/o/restaurant/18244
+24249,Steak n Shake,3125 Government Blvd.,Mobile,AL,36606,2514762668,30.6534,-88.118,traditional,https://orderonline.steaknshake.com/o/restaurant/19598
+24251,Steak n Shake,4105 E. 96th Street,Indianapolis,IN,46240,3178441355,39.9269,-86.0973,traditional,https://orderonline.steaknshake.com/o/restaurant/18325
+24253,Steak n Shake,2019 W. 75th Street,Darien,IL,60561,6305150849,41.7515,-87.995,traditional,https://orderonline.steaknshake.com/o/restaurant/18336
+24255,Steak n Shake,1134 W. Pearce Boulevard,Wentzville,MO,63385,6366395253,38.8121,-90.8739,traditional,https://orderonline.steaknshake.com/o/restaurant/18263
+24257,Steak n Shake,3819 Broadway,Quincy,IL,62305,2172281082,39.9352,-91.3279,traditional,https://orderonline.steaknshake.com/o/restaurant/19566
+24259,Steak n Shake,410 Clairton Blvd,Pleasant Hills,PA,15236,4126558323,40.3366,-79.9488,traditional,https://orderonline.steaknshake.com/o/restaurant/18302
+24261,Steak n Shake,2088 N Morton Street,Franklin,IN,46131,3177365219,39.5012,-86.0686,traditional,https://orderonline.steaknshake.com/o/restaurant/18315
+24263,Steak n Shake,17325 Loraine Ave.,Cleveland,OH,44111,2166881086,41.4505,-81.8178,traditional,https://orderonline.steaknshake.com/o/restaurant/18281
+24265,Steak n Shake,2005 Pittsburgh Mills Blvd.,Tarentum,PA,15084,7242749794,40.5701,-79.8012,traditional,https://orderonline.steaknshake.com/o/restaurant/18338
+24267,Steak n Shake,4835 Jimmy Lee Smith Parkway,Hiram,GA,30141,7704393557,33.9024,-84.7792,traditional,https://orderonline.steaknshake.com/o/restaurant/18378
+24269,Steak n Shake,578 E. Interstate 30,Rockwall,TX,75087,9727225818,32.8979,-96.4707,traditional,https://orderonline.steaknshake.com/o/restaurant/18331
+24271,Steak n Shake,1182 Battlefield Parkway,Ft. Oglethorpe,GA,30742,7068581919,34.9476,-85.2347,traditional,https://orderonline.steaknshake.com/o/restaurant/19565
+24273,Steak n Shake,499 Congaree Road,Greenville,SC,29607,8642846256,34.8492,-82.3279,traditional,https://orderonline.steaknshake.com/o/restaurant/19571
+24275,Steak n Shake,304 South East M-291,Lee&#39;s Summit,MO,64063,8163479010,38.9166,-94.3631,traditional,https://orderonline.steaknshake.com/o/restaurant/19591
+24277,Steak n Shake,120 Lauren Lane,Woodstock,GA,30189,6786260424,34.0874,-84.5467,traditional,https://orderonline.steaknshake.com/o/restaurant/18362
+24279,Steak n Shake,2717 S. Hurstbourne Pkwy.,Louisville,KY,40220,5024913397,38.2035,-85.6028,traditional,https://orderonline.steaknshake.com/o/restaurant/18398
+24281,Steak n Shake,2901 W. Woodlawn Drive,Lincoln,IL,62656,2177324325,40.1585,-89.4158,traditional,https://orderonline.steaknshake.com/o/restaurant/18290
+24283,Steak n Shake,20091 Lagrange Road,Frankfort,IL,60423,8158069564,41.5244,-87.8499,traditional,https://orderonline.steaknshake.com/o/restaurant/18375
+24285,Steak n Shake,895 Woodstock Road,Roswell,GA,30075,6785343640,34.0608,-84.3887,traditional,https://orderonline.steaknshake.com/o/restaurant/18391
+24287,Steak n Shake,3232 Bardstown Road,Louisville,KY,40205,5024562670,38.2129,-85.6727,traditional,https://orderonline.steaknshake.com/o/restaurant/18396
+24289,Steak n Shake,2624 S. Western Ave.,Marion,IN,46953,7656646101,40.5372,-85.6738,traditional,https://orderonline.steaknshake.com/o/restaurant/18154
+24291,Steak n Shake,5995 Sawmill Rd.,Dublin,OH,43017,6148890203,40.0877,-83.0927,traditional,https://orderonline.steaknshake.com/o/restaurant/18227
+24293,Steak n Shake,3316 Center Road,Brunswick,OH,44212,3305580308,41.2379,-81.806,traditional,https://orderonline.steaknshake.com/o/restaurant/18329
+24295,Steak n Shake,7230 Woodland Drive,Indianapolis,IN,46278,3172995043,39.8835,-86.266,traditional,https://orderonline.steaknshake.com/o/restaurant/18005
+24297,Steak n Shake,1445 North 21st Street,Newark,OH,43055,7403641504,40.0881,-82.4272,traditional,https://orderonline.steaknshake.com/o/restaurant/18316
+24299,Steak n Shake,518 Essex Drive,Kokomo,IN,46901,7658688206,40.483,-86.1074,traditional,https://orderonline.steaknshake.com/o/restaurant/18110
+24301,Steak n Shake,450 Mt. Zion Rd,Florence,KY,41042,8597950040,38.9568,-84.6311,traditional,https://orderonline.steaknshake.com/o/restaurant/18243
+24303,Steak n Shake,16051 Manchester,Ellisville,MO,63011,6363910550,38.5917,-90.5939,traditional,https://orderonline.steaknshake.com/o/restaurant/18106
+24305,Steak n Shake,325 S. Veteran&#39;s Parkway,Normal,IL,61761,3094542899,40.503,-88.955,traditional,https://orderonline.steaknshake.com/o/restaurant/18053
+24307,Steak n Shake,8271 South Quebec Street,Centennial,CO,80112,3032212338,39.5672,-104.906,traditional,https://orderonline.steaknshake.com/o/restaurant/18972
+24309,Steak n Shake,1580 Wabash,Springfield,IL,62704,2177870392,39.7639,-89.6801,traditional,https://orderonline.steaknshake.com/o/restaurant/19545
+24311,Steak n Shake,2465 North Dirksen,Springfield,IL,62702,2174925925,39.8324,-89.6048,traditional,https://orderonline.steaknshake.com/o/restaurant/19549
+24313,Steak n Shake,201 South Larkin Ave.,Joliet,IL,60436,8157259401,41.5195,-88.1245,traditional,https://orderonline.steaknshake.com/o/restaurant/18074
+24315,Steak n Shake,16110 Harlem Ave.,Tinley Park,IL,60477,7088029372,41.5987,-87.7945,traditional,https://orderonline.steaknshake.com/o/restaurant/18085
+24317,Steak n Shake,5901 National Road East,Richmond,IN,47374,7659669082,39.8324,-84.821,traditional,https://orderonline.steaknshake.com/o/restaurant/18101
+24319,Steak n Shake,5990 Beckley Road,Battle Creek,MI,49015,2699798866,42.2603,-85.1798,traditional,https://orderonline.steaknshake.com/o/restaurant/18107
+24321,Steak n Shake,3370 Buford Drive,Buford,GA,30519,6788044331,34.074,-83.9845,traditional,https://orderonline.steaknshake.com/o/restaurant/18372
+24323,Steak n Shake,12607 Dorsett Road,Maryland Heights,MO,63043,3148780524,38.7145,-90.4551,traditional,https://orderonline.steaknshake.com/o/restaurant/18018
+24325,Steak n Shake,5917 E. Hillsborough Ave.,Tampa,FL,33610,8136216100,27.996,-82.3883,traditional,https://orderonline.steaknshake.com/o/restaurant/18040
+24327,Steak n Shake,1100 Evans Way Court,Columbus,OH,43228,6148518750,39.9745,-83.1511,traditional,https://orderonline.steaknshake.com/o/restaurant/18186
+24329,Steak n Shake,2806 Commerce Drive,Coralville,IA,52241,3198006117,41.6952,-91.6126,traditional,https://orderonline.steaknshake.com/o/restaurant/18212
+24331,Steak n Shake,5488 Cleveland Ave.,Columbus,OH,43231,6148904982,40.0817,-82.9504,traditional,https://orderonline.steaknshake.com/o/restaurant/18222
+24333,Steak n Shake,5395 Monroe St.,Toledo,OH,43623,4198421750,41.7043,-83.6607,traditional,https://orderonline.steaknshake.com/o/restaurant/18235
+24335,Steak n Shake,2081 Marion Mt. Gilead Rd.,Marion,OH,43302,7407251112,40.5801,-83.0743,traditional,https://orderonline.steaknshake.com/o/restaurant/18251
+24337,Steak n Shake,6575 Roswell Road,Atlanta,GA,30328,4042524267,33.9329,-84.3794,traditional,https://orderonline.steaknshake.com/o/restaurant/18345
+24339,Steak n Shake,930 Buford Hwy,Cumming,GA,30041,7708873002,34.1801,-84.1418,traditional,https://orderonline.steaknshake.com/o/restaurant/18353
+24341,Steak n Shake,"1926 Sardis Road, North",Charlotte,NC,28270,7048414911,35.141,-80.7331,traditional,https://orderonline.steaknshake.com/o/restaurant/18361
+24343,Steak n Shake,7181 Southeast 29th Street,Midwest City,OK,73110,4056107877,35.4354,-97.4003,traditional,https://orderonline.steaknshake.com/o/restaurant/19576
+24345,Steak n Shake,1651 New Haven Ave.,West Melbourne,FL,32904,3219533080,28.0784,-80.6482,traditional,https://orderonline.steaknshake.com/o/restaurant/18140
+24347,Steak n Shake,6030 Southwest 3rd Street,Oklahoma City,OK,73128,4054956330,35.4616,-97.6303,traditional,https://orderonline.steaknshake.com/o/restaurant/19577
+24349,Steak n Shake,23 Executive Drive,New Castle,IN,47362,7655214514,39.8845,-85.3837,traditional,https://orderonline.steaknshake.com/o/restaurant/18363
+24351,Steak n Shake,614 W Raab Rd.,Normal,IL,61761,3094513721,40.5323,-88.9982,traditional,https://orderonline.steaknshake.com/o/restaurant/17992
+24353,Steak n Shake,210 Cassidy Boulevard,Pikeville,KY,41501,6065093663,37.5047,-82.5362,traditional,https://orderonline.steaknshake.com/o/restaurant/19597
+24355,Steak n Shake,"920 South Main, Rt 51",Forsyth,IL,62535,2178760107,39.9255,-88.9544,traditional,https://orderonline.steaknshake.com/o/restaurant/17994
+24357,Steak n Shake,835 Robert Raymond Drive,Lake St. Louis,MO,63367,6366251820,38.7731,-90.7831,traditional,https://orderonline.steaknshake.com/o/restaurant/18368
+24359,Steak n Shake,1450 E. Fowler Ave.,Tampa,FL,33612,8139719700,28.0547,-82.4433,traditional,https://orderonline.steaknshake.com/o/restaurant/18036
+24361,Steak n Shake,2004 North Bishop,Rolla,MO,65401,5733415550,37.9625,-91.7652,traditional,https://orderonline.steaknshake.com/o/restaurant/19553
+24363,Steak n Shake,Counter Service,New York City,NY,10019,2122476584,40.7637,-73.9828,traditional,https://orderonline.steaknshake.com/o/restaurant/25571
+24365,Steak n Shake,2840 Millbrook Road,Raleigh,NC,27604,9198726669,35.8491,-78.5838,traditional,https://orderonline.steaknshake.com/o/restaurant/19630
+24367,Steak n Shake,1709 S. Neil Street,Champaign,IL,61820,2173525001,40.0951,-88.2453,traditional,https://orderonline.steaknshake.com/o/restaurant/17996
+24369,Steak n Shake,7930 E. Washington,Indianapolis,IN,46219,3173591102,39.7733,-86.0266,traditional,https://orderonline.steaknshake.com/o/restaurant/18007
+24371,Steak n Shake,5303 Coldwater Road,Ft. Wayne,IN,46825,2604845094,41.1276,-85.1364,traditional,https://orderonline.steaknshake.com/o/restaurant/18064
+24373,Steak n Shake,2775 Herman Darlage Drive,Columbus,IN,47201,8123785838,39.2273,-85.8973,traditional,https://orderonline.steaknshake.com/o/restaurant/18065
+24375,Steak n Shake,10459 Page Avenue,St. Louis,MO,63132,3144294436,38.6917,-90.3917,traditional,https://orderonline.steaknshake.com/o/restaurant/18015
+24379,Steak n Shake,9777 Las Vegas Blvd South,Las Vegas,NV,89183,7027967111,36.0115,-115.175,traditional,
+24381,Steak n Shake,3247 Battlefield Road,Springfield,MO,65804,4178897887,37.1582,-93.2295,traditional,https://orderonline.steaknshake.com/o/restaurant/19540
+24383,Steak n Shake,4511 S. Laburnum Avenue,Henrico,VA,23231,8042362031,37.5259,-77.3546,traditional,https://orderonline.steaknshake.com/o/restaurant/19613
+24385,Steak n Shake,1253 Hampton Avenue,St. Louis,MO,63139,3146467200,38.6268,-90.2876,traditional,https://orderonline.steaknshake.com/o/restaurant/18021
+24387,Steak n Shake,133 S. State Road 7,Royal Palm Beach,FL,33414,5613336474,26.6713,-80.2021,traditional,https://orderonline.steaknshake.com/o/restaurant/18313
+24389,Steak n Shake,1460 Jungerman Rd.,St. Peters,MO,63376,6364413351,38.7496,-90.5879,traditional,https://orderonline.steaknshake.com/o/restaurant/18122
+24391,Steak n Shake,2820 E. Colonial Drive,Orlando,FL,32803,4078960827,28.5528,-81.3472,traditional,https://orderonline.steaknshake.com/o/restaurant/18032
+24393,Steak n Shake,6243 W. Washington Street,Indianapolis,IN,46241,3174811948,39.7463,-86.2693,traditional,https://orderonline.steaknshake.com/o/restaurant/18089
+24395,Steak n Shake,1251 Strongbow Center Dr.,Valparaiso,IN,46383,2194654014,41.4583,-87.0335,traditional,https://orderonline.steaknshake.com/o/restaurant/18179
+24397,Steak n Shake,10835 Kings Road,Myrtle Beach,SC,29572,8434975700,33.7845,-78.7709,traditional,https://orderonline.steaknshake.com/o/restaurant/19634
+24791,Steak n Shake,3502 River Point Parkway,Sheridan,CO,80110,3037815697,39.6529,-105.013,traditional,https://orderonline.steaknshake.com/o/restaurant/18973
+24793,Steak n Shake,244 Henry Boulevard,Statesboro,GA,30458,9122123500,32.4282,-81.7581,traditional,https://orderonline.steaknshake.com/o/restaurant/19626
+24833,Steak n Shake,3030 Business Center Dr.,Pearland,TX,77584,7133401064,29.5531,-95.3899,traditional,https://orderonline.steaknshake.com/o/restaurant/19619
+25394,Steak n Shake,1702 Oak Street,Canton,MO,63435,5732880366,40.1232,-91.5357,signature,
+25733,Steak n Shake,20971 Gulf Freeway,Webster,TX,77598,2813321016,29.5238,-95.1259,traditional,https://orderonline.steaknshake.com/o/restaurant/19620
+25736,Steak n Shake,390 South Colonial Drive,Alabaster,AL,35007,2056205233,33.2236,-86.8015,traditional,https://orderonline.steaknshake.com/o/restaurant/19623
+26894,Steak n Shake,700 Paramus Park,Paramus,NJ,07652,2012624969,40.9574,-74.0691,signature,
+26910,Steak n Shake,1905 West Foxwood Drive,Raymore,MO,64083,8163223167,38.8126,-94.4899,traditional,https://orderonline.steaknshake.com/o/restaurant/19594
+27474,Steak n Shake,2033 West Broad Street,Athens,GA,30606,7063536969,33.9507,-83.4036,traditional,https://orderonline.steaknshake.com/o/restaurant/19617
+27805,Steak n Shake,116 Grand Central Mall,Vienna,WV,26104,3044247050,39.327,-81.5564,traditional,https://orderonline.steaknshake.com/o/restaurant/19621
+27807,Steak n Shake,1460 Highway 27 South,Carrollton,GA,30117,6786640837,33.5513,-85.0732,traditional,https://orderonline.steaknshake.com/o/restaurant/19631
+28005,Steak n Shake,4329 Belair Frontage Road,Augusta,GA,30909,7064326835,33.4816,-82.1299,traditional,https://orderonline.steaknshake.com/o/restaurant/19628
+28091,Steak n Shake,610 East Main Street,Cartersville,GA,30121,7703828182,34.1678,-84.786,traditional,https://orderonline.steaknshake.com/o/restaurant/19638
+28914,Steak n Shake,1520 East Walnut,Watseka,IL,60970,8154320495,40.7755,-87.705,traditional,https://orderonline.steaknshake.com/o/restaurant/19629
+28931,Steak n Shake,1100 Jet Port Road,Myrtle Beach,SC,29577,8434488459,33.6818,-78.9285,traditional,
+28934,Steak n Shake,100 Terminal Drive,Fort Lauderdale,FL,33315,9543591500,26.0718,-80.139,traditional,
+28960,Steak n Shake,11 Bett Stroud Road,Weaverville,NC,28787,8286450126,35.7027,-82.5758,traditional,https://orderonline.steaknshake.com/o/restaurant/19643
+28963,Steak n Shake,1560 Briargate Boulevard,Colorado Springs,CO,80920,7194343002,38.9458,-104.799,traditional,https://orderonline.steaknshake.com/o/restaurant/19633
+28966,Steak n Shake,1309 Hershberger Road NW,Roanoke,VA,24012,5404008825,37.3162,-79.957,traditional,https://orderonline.steaknshake.com/o/restaurant/19614
+28968,Steak n Shake,Counter Service,San Antonio,TX,78253,2106889692,29.4906,-98.7073,traditional,https://orderonline.steaknshake.com/o/restaurant/25748
+28996,Steak n Shake,3525 Thurman Tanner Pkwy,Oakwood,GA,30566,7705362033,34.2262,-83.878,traditional,https://orderonline.steaknshake.com/o/restaurant/19640
+28998,Steak n Shake,1102 S George Nigh Expy,Mcalester,OK,74501,9184237404,34.9334,-95.7697,traditional,https://orderonline.steaknshake.com/o/restaurant/19632
+29004,Steak n Shake,"South Midway Travel Plaza, Penn Turnpike Eastbound Milepost 147.3",Bedford,PA,15522,8144585054,40.03,-78.493,traditional,
+29006,Steak n Shake,"Highspire Travel Plaza, Penn Turnpike Eastbound Milepost 249.7",Middletown,PA,17057,7179481639,40.21,-76.743,traditional,
+29602,Steak n Shake,4821 Tanger Outlet Boulevard,North Charleston,SC,29418,8437448956,32.8756,-80.0173,traditional,https://orderonline.steaknshake.com/o/restaurant/19635
+30353,Steak n Shake,2096 Interstate Drive,Opelika,AL,36801,3347429404,32.6164,-85.4061,traditional,https://orderonline.steaknshake.com/o/restaurant/19645
+30355,Steak n Shake,Counter Service,Tempe,AZ,85821,4805574018,33.4236,-111.94,traditional,https://orderonline.steaknshake.com/o/restaurant/25659
+30356,Steak n Shake,San Antonio Airport,San Antonio,TX,78216,2108328037,29.5271,-98.4721,traditional,
+30357,Steak n Shake,1140 North Hills Boulevard,Reno,NV,89506,7756779900,39.6118,-119.845,traditional,https://orderonline.steaknshake.com/o/restaurant/19637
+30359,Steak n Shake,2011 Eatonton Road,Madison,GA,30650,7064385462,33.5543,-83.4742,traditional,https://orderonline.steaknshake.com/o/restaurant/19636
+30360,Steak n Shake,9557 Bill Arp Road,Douglasville,GA,30135,7709422200,33.7212,-84.7636,traditional,https://orderonline.steaknshake.com/o/restaurant/19639
+30361,Steak n Shake,1817  Montgomery Hwy S,Hoover,AL,35244,2059825789,33.3509,-86.7952,traditional,https://orderonline.steaknshake.com/o/restaurant/19624
+32454,Steak n Shake,120 State Road 46 West,Batesville,IN,47006,8129320078,39.3076,-85.2178,traditional,https://orderonline.steaknshake.com/o/restaurant/19646
+32461,Steak n Shake,10 Mill Creek Circle,Pooler,GA,31322,9123308113,32.1394,-81.2447,traditional,https://orderonline.steaknshake.com/o/restaurant/19627
+32462,Steak n Shake,5012 Milwaukee Avenue,Lubbock,TX,79407,8066872966,33.5354,-101.957,traditional,https://orderonline.steaknshake.com/o/restaurant/19641
+32467,Steak n Shake,2561 S. Highway 27,Somerset,KY,42501,6064854356,37.083,-84.6094,traditional,https://orderonline.steaknshake.com/o/restaurant/19543
+32515,Steak n Shake,4203 Wisconsin Avenue,Sedalia,MO,65310,6608512264,38.7161,-93.2818,traditional,https://orderonline.steaknshake.com/o/restaurant/19642
+32516,Steak n Shake,280 Beach Boulevard,Biloxi,MS,39530,2284362828,30.3932,-88.8672,traditional,
+32521,Steak n Shake,180 Inverness Plaza,Birmingham,AL,35242,2059804766,33.4197,-86.6973,traditional,https://orderonline.steaknshake.com/o/restaurant/19625
+32576,Steak n Shake,1036 Mineral Wells Avenue,Paris,TN,38242,7314077360,36.2869,-88.3123,traditional,https://orderonline.steaknshake.com/o/restaurant/19551
+32584,Steak n Shake,2136 W. Mercury Blvd,Hampton,VA,23666,7572247941,37.0381,-76.406,traditional,https://orderonline.steaknshake.com/o/restaurant/19615
+32586,Steak n Shake,3915 University Boulevard,Tyler,TX,75701,9039447926,32.3134,-95.245,traditional,https://orderonline.steaknshake.com/o/restaurant/19550
+32598,Steak n Shake,1536 Parkway,Sevierville,TN,37862,8653661556,35.8367,-83.5715,traditional,https://orderonline.steaknshake.com/o/restaurant/19544
+32614,Steak n Shake,12160 Mariposa Road,Victorville,CA,92394,7609529590,34.4715,-117.343,traditional,https://orderonline.steaknshake.com/o/restaurant/19647
+32636,Steak n Shake,4214 Centerplace Drive,Greeley,CO,80634,9705064121,40.3951,-104.746,traditional,https://orderonline.steaknshake.com/o/restaurant/25068
+32668,Steak n Shake,1600 Avenue Of Champions,Bowling Green,KY,42101,2707839260,36.984,-86.4589,traditional,
+32669,Steak n Shake,Counter Service,Santa Monica,CA,90401,3102601516,34.0126,-118.495,traditional,https://orderonline.steaknshake.com/o/restaurant/25618
+32672,Steak n Shake,1277 S. Hart St. Road,Vincennes,IN,47591,8123160100,38.6497,-87.4946,traditional,https://orderonline.steaknshake.com/o/restaurant/25451
+32688,Steak n Shake,1676 General Booth Boulevard,Virginia Beach,VA,23454,7576891067,36.7819,-76.001,traditional,https://orderonline.steaknshake.com/o/restaurant/25944
+32724,Steak n Shake,6789 Shannon Parkway,Union City,GA,30291,6785192447,33.5702,-84.5398,traditional,
+32782,Steak n Shake,5900 Duraleigh Road,Raleigh,NC,27612,9198097524,35.8581,-78.7124,traditional,https://orderonline.steaknshake.com/o/restaurant/25707
+32783,Steak n Shake,116 Loyola Drive,Myrtle Beach,SC,29588,8434924519,33.6424,-78.9892,traditional,https://orderonline.steaknshake.com/o/restaurant/25708
+32849,Steak n Shake,8100 Veterans Highway,Millersville,MD,21108,4108465423,39.1188,-76.636,traditional,
+32850,Steak n Shake,425 Charles H Dimmock Drive,Colonial Heights,VA,23384,8047223003,37.2528,-77.3843,traditional,https://orderonline.steaknshake.com/o/restaurant/25945
+32854,Steak n Shake,5002 N. Cowhorn Creek Loop Road,Texarkana,TX,75503,9033062690,33.4251,-94.0477,traditional,https://orderonline.steaknshake.com/o/restaurant/25718
+32861,Steak n Shake,2629 Enterprise Road,Goodland,KS,67735,7858906757,39.3332,-101.726,traditional,
+32862,Steak n Shake,24 N. 130th Street,Bonner Springs,KS,66012,,39.0984,-94.8828,traditional,
+32863,Steak n Shake,2006 E. Parkway Drive,Russellville,AR,72802,4792195400,35.2826,-93.1095,traditional,https://orderonline.steaknshake.com/o/restaurant/26481
+32893,Steak n Shake,1011 S. Main Street,Centerville,UT,84014,8017979963,40.9063,-111.879,traditional,
+32897,Steak n Shake,400 East Second Street,Bloomsburg,PA,17815,,41.0081,-76.4473,traditional,
+32898,Steak n Shake,6769 Abrams Road,Dallas,TX,75231,2143417999,32.8678,-96.7435,traditional,
+32899,Steak n Shake,10400 I-20,Midland,TX,79706,4325637944,31.9292,-102.203,traditional,
+32919,Steak n Shake,3718 Alumni Avenue,Memphis,TN,38152,,35.1184,-89.939,traditional,
+32920,Steak n Shake,269 Morrison Moore Parkway West,Dahlonega,GA,30533,7069697517,34.5244,-83.9839,traditional,
+32953,Steak n Shake,6930 Cypress Garden Boulevard,Winter Haven,FL,33884,8632297024,27.9783,-81.6594,traditional,
+32954,Steak n Shake,108 E. Palm Avenue,Burbank,CA,91502,8185614380,34.1813,-118.311,traditional,https://orderonline.steaknshake.com/o/restaurant/26220
+32966,Steak n Shake,413 Pinnacle Parkway,Bristol,TN,37620,4235735024,36.5928,-82.2589,traditional,
+32967,Steak n Shake,Univeristy Of Mississippi,Oxford,MS,38677,,34.3676,-89.5391,traditional,
+32968,Steak n Shake,Middle Tennessee State University,Murfreesboro,TN,37132,,35.8435,-86.3707,traditional,
+32969,Steak n Shake,(counter Service),Fogelsville,PA,18051,6103911111,40.5832,-75.6326,traditional,
+32970,Steak n Shake,3351 Candlers Mountain Road,Lynchburg,VA,24502,4348452071,37.3676,-79.1754,traditional,
+32971,Steak n Shake,1417 3rd Avenue,Seattle,WA,98101,2068233030,47.6091,-122.338,traditional,
+32972,Steak n Shake,7205 S. Broadway,Tyler,TX,75703,,32.271,-95.3076,traditional,
+32973,Steak n Shake,27002 La Paz Road,Aliso Viejo,CA,92656,9498601140,33.5708,-117.707,traditional,
+32994,Steak n Shake,6231 Valley Springs Parkway,Riverside,CA,92507,,33.9398,-117.288,traditional,
+33017,Steak n Shake,University Of Akron,Akron,OH,44304,,41.0758,-81.5114,traditional,
+33018,Steak n Shake,64 Princeton Highstown Road,West Windsor,NJ,08550,6092699066,40.314,-74.6203,traditional,
+33020,Steak n Shake,Bwi Airport - Terminal A,Linthicum,MD,21090,4105955355,39.2051,-76.6527,traditional,
+33028,Steak n Shake,491 Fob James Drive,Valley,AL,36854,3347560435,32.8175,-85.1987,traditional,
