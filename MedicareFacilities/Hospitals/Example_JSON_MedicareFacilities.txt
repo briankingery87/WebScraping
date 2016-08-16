@@ -1,0 +1,51 @@
+{"ProviderFinderResult":
+    [
+        {
+            "Adr1":"78 MEDICAL CENTER DRIVE",
+            "Adr2":"",
+            "City":"FISHERSVILLE",
+            "Dist":"0.0",
+            "ID":"490018",
+            "Lat":38.09415,
+            "Long":-78.9862747,
+            "Name":"AUGUSTA HEALTH",
+            "Phone":"(540) 932-4000",
+            "State":"VA",
+            "Supl":
+                [
+                    {
+                        "Key":"type_desc",
+                        "Value":"Acute Care Hospitals"},
+                    {
+                        "Key":"Srvc_value",
+                        "Value":"Yes"},
+                    {
+                        "Key":"HIT_1",
+                        "Value":""},
+                    {
+                        "Key":"HIT_2",
+                        "Value":""},
+                    {
+                        "Key":"OP_25",
+                        "Value":""},
+                    {
+                        "Key":"SM_5",
+                        "Value":""}
+                ],
+            "Zip":"22939"
+        },
+             
+            
+            
+            
+url = https://www.medicare.gov/hospitalservices/Provider.svc/ProviderFinder?loc=ST|VA&sort=1|ASC&paging=6|20   
+{"ProviderFinderResult":
+    [],
+    "error":"",
+    "recordcount":83,
+    "proximityDistance":25,
+    "starRatingsCount":
+        [
+            {"Key":"5Star","Value":"3"},{"Key":"4Star","Value":"73"},{"Key":"3Star","Value":"0"},{"Key":"2Star","Value":"7"}]}
+
+            
