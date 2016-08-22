@@ -1,19 +1,22 @@
 #<a href = http://www.press.uchicago.edu/books/HOC/index.html>The History of Cartography</a>
 The first volume of the <em>History of Cartography</em> was published in 1987 and the three books that constitute Volume Two appeared over the following eleven years. In 1987 the worldwide web did not exist, and since 1998 book publishing has gone through a revolution in the production and dissemination of work. Although the large format and high quality image reproduction of the printed books (see right column) are still well-suited to the requirements for the publishing of maps, the online availability of material is a boon to scholars and map enthusiasts.
+
 ##Download Full PDF <a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8Q0dLNE5sZW1OMGM> Here</a>
 
-##<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8V2M5NE1rZXlLcE0>Volume 1</a>
-##Volume 2
+##<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8V2M5NE1rZXlLcE0>Volume 1</a> <a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8YnIzY0RhNk9KdjQ>(Individual Chapter Download)</a>
+Cartography in Prehistoric, Ancient, and Medieval Europe and the Mediterranean
+
+##Volume 2 <a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8S1p4bUdfc1ZpMVU>(Individual Chapter Download)</a>
 ###<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8bTVjMmRpVURGVlk>  - Book 1</a>
+Cartography in the Traditional Islamic and South Asian Societies
 ###<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8OEtEMEF0clMyS2s>  - Book 2</a>
+Cartography in the Traditional East and Southeast Asian Societies
 ###<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8Rm5LbllsWG4xWWs>  - Book 3</a>
-##Volume 3
+Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies
+
+##Volume 3 - Cartography in the European Renaissance <a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8dEFpb1ZZNGY5dVU>(Individual Chapter Download)</a>
 ###<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8U0h3bDM0UWQ0emM>  - Part 1</a>
 ###<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8RFJNT1FfYnFMd3c>  - Part 2</a>
-
-
-
-
 
 
 
