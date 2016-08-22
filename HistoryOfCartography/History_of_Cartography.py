@@ -242,3 +242,12 @@ for pdf in VOL3Part2PDFs:
 print 'History_of_Cartography_VOL3_Part2.pdf compiling'
 
 ################################################################################
+
+FinalPDF = MainFolder + os.sep + 'History_of_Cartography_All.pdf'
+finalPDF = arcpy.mapping.PDFDocumentCreate(FinalPDF)
+
+AllPDFs = glob.glob(MainFolder + os.sep + '*.pdf')
+for pdf in AllPDFs:
+    finalPDF.appendPages(pdf)
+print 'History_of_Cartography_All.pdf compiling'
+
