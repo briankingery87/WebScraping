@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:         HistoryofCartography.py
+# Name:         History_of_Cartography.py
 #
 # Purpose:      Download and combine all PDFs for the first 3 volumes of The
 #               History of Cartography
