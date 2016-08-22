@@ -1,6 +1,8 @@
 #<a href = http://www.press.uchicago.edu/books/HOC/index.html>The History of Cartography</a>
 
-##<a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8Q0dLNE5sZW1OMGM> Download Here</a>
+##Download Combined PDF <a href = https://drive.google.com/open?id=0B-Mks6ecLAZ8Q0dLNE5sZW1OMGM> Here</a>
+
+![Screenshot 1](https://github.com/briankingery87/WebScraping/blob/master/HistoryOfCartography/FileBreakdown.JPG)
 
 The first volume of the <em>History of Cartography</em> was published in 1987 and the three books that constitute Volume Two appeared over the following eleven years. In 1987 the worldwide web did not exist, and since 1998 book publishing has gone through a revolution in the production and dissemination of work. Although the large format and high quality image reproduction of the printed books (see right column) are still well-suited to the requirements for the publishing of maps, the online availability of material is a boon to scholars and map enthusiasts.
 
