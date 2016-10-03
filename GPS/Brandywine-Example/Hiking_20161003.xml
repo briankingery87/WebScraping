@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.14.1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-09-21T19:32:30Z</time>
+    <bounds maxlat="38.5980796" maxlon="-79.1691732" minlat="38.5675307" minlon="-79.2015632"/>
+  </metadata>
+
+  <wpt lat="38.5980796" lon="-79.2014375">
+    <time>2009-09-21T17:15:51Z</time>
+    <name>Day Parking</name>
+    <sym>Parking Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.5686320" lon="-79.1708031">
+    <ele>1256.3856000</ele>
+    <name>Fire Tower</name>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.5703469" lon="-79.1739045">
+    <ele>1127.7600000</ele>
+    <name>Intersection HK 1</name>
+    <sym>Triangle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.5895232" lon="-79.1979202">
+    <ele>592.5312000</ele>
+    <name>Intersection Saw Mill 1</name>
+    <sym>Triangle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <rte>
+    <name>High Knob Fire Tower</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="38.5935786" lon="-79.1972391">
+      <time>2009-09-21T17:12:37Z</time>
+      <name>Trail</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc700bf7195ae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5926405" lon="-79.1950798">
+      <time>2009-09-21T17:12:38Z</time>
+      <name>Trail1</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc7009371f9ae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5902165" lon="-79.1938850">
+      <time>2009-09-21T17:12:40Z</time>
+      <name>Trail2</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc700227131af</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5889886" lon="-79.1916111">
+      <time>2009-09-21T17:12:42Z</time>
+      <name>Trail3</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc700e9709baf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5856430" lon="-79.1894646">
+      <time>2009-09-21T17:12:44Z</time>
+      <name>Trail4</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc7004d70ffaf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5815731" lon="-79.1850768">
+      <time>2009-09-21T17:12:46Z</time>
+      <name>Trail5</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc7008f6fcbb0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5772965" lon="-79.1823754">
+      <time>2009-09-21T17:12:47Z</time>
+      <name>Trail6</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc700c86e49b1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5753929" lon="-79.1795207">
+      <time>2009-09-21T17:12:50Z</time>
+      <name>Trail7</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc7006f6eceb1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5703469" lon="-79.1739045">
+      <ele>1127.7600000</ele>
+      <name>Intersection HK 1</name>
+      <sym>Triangle, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5699054" lon="-79.1723381">
+      <time>2009-09-21T17:12:53Z</time>
+      <name>Road</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600cbd00d0006007c000d1bc7006f6d1db3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5684490" lon="-79.1724586">
+      <time>2009-09-21T17:12:54Z</time>
+      <name>Road1</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600cbd00d0006007c000d1bc7002c6d18b3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5677132" lon="-79.1715511">
+      <ele>1199.9976000</ele>
+      <time>2009-09-21T17:12:55Z</time>
+      <name>3937ft</name>
+      <cmt>3937 ft</cmt>
+      <desc>3937 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2000cbd00d0010007c000d1bc700096d42b3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5675307" lon="-79.1691732">
+      <ele>1199.9976000</ele>
+      <time>2009-09-21T17:12:57Z</time>
+      <name>3937ft1</name>
+      <cmt>3937 ft</cmt>
+      <desc>3937 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2000cbd00d0010007c000d1bc700016db1b3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5686320" lon="-79.1708031">
+      <ele>1256.3856000</ele>
+      <name>Fire Tower</name>
+      <sym>Scenic Area</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5675307" lon="-79.1691732">
+      <ele>1199.9976000</ele>
+      <time>2009-09-21T17:12:57Z</time>
+      <name>3937ft1</name>
+      <cmt>3937 ft</cmt>
+      <desc>3937 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2000cbd00d0010007c000d1bc700016db1b3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5677132" lon="-79.1715511">
+      <ele>1199.9976000</ele>
+      <time>2009-09-21T17:12:55Z</time>
+      <name>3937ft</name>
+      <cmt>3937 ft</cmt>
+      <desc>3937 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2000cbd00d0010007c000d1bc700096d42b3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5684490" lon="-79.1724586">
+      <time>2009-09-21T17:12:54Z</time>
+      <name>Road1</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600cbd00d0006007c000d1bc7002c6d18b3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5699054" lon="-79.1723381">
+      <time>2009-09-21T17:12:53Z</time>
+      <name>Road</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600cbd00d0006007c000d1bc7006f6d1db3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5703469" lon="-79.1739045">
+      <ele>1127.7600000</ele>
+      <name>Intersection HK 1</name>
+      <sym>Triangle, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5753929" lon="-79.1795207">
+      <time>2009-09-21T17:12:50Z</time>
+      <name>Trail7</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc7006f6eceb1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5772965" lon="-79.1823754">
+      <time>2009-09-21T17:12:47Z</time>
+      <name>Trail6</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc700c86e49b1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5815731" lon="-79.1850768">
+      <time>2009-09-21T17:12:46Z</time>
+      <name>Trail5</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc7008f6fcbb0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5856430" lon="-79.1894646">
+      <time>2009-09-21T17:12:44Z</time>
+      <name>Trail4</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0003007c000d1bc7004d70ffaf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5889886" lon="-79.1916111">
+      <time>2009-09-21T17:12:42Z</time>
+      <name>Trail3</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc700e9709baf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5902165" lon="-79.1938850">
+      <time>2009-09-21T17:12:40Z</time>
+      <name>Trail2</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc700227131af</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5926405" lon="-79.1950798">
+      <time>2009-09-21T17:12:38Z</time>
+      <name>Trail1</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc7009371f9ae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5935786" lon="-79.1972391">
+      <time>2009-09-21T17:12:37Z</time>
+      <name>Trail</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0002007e000d1bc700bf7195ae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+  <rte>
+    <name>Saw Mill Loop</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="38.5933399" lon="-79.1977787">
+      <time>2009-09-21T17:14:48Z</time>
+      <name>Road2</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0520cbd00d0023007e000f1bc700b4717cae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5920342" lon="-79.1970976">
+      <ele>600.1512000</ele>
+      <time>2009-09-21T17:14:49Z</time>
+      <name>1969ft</name>
+      <cmt>1969 ft</cmt>
+      <desc>1969 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2000cbd00d0006007e000d1bc70077719bae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5907929" lon="-79.1972276">
+      <time>2009-09-21T17:14:51Z</time>
+      <name>Road3</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600cbd00d0008007d000d1bc7003d7195ae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5895232" lon="-79.1979202">
+      <ele>592.5312000</ele>
+      <name>Intersection Saw Mill 1</name>
+      <sym>Triangle, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5851319" lon="-79.2015186">
+      <time>2009-09-21T17:14:54Z</time>
+      <name>NationalPark</name>
+      <cmt>National Park</cmt>
+      <desc>National Park</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0001007e00031bc7003570cdad</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5768710" lon="-79.2015632">
+      <time>2009-09-21T17:14:56Z</time>
+      <name>HawesRun</name>
+      <cmt>Hawes Run</cmt>
+      <desc>Hawes Run</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1800cbd00d000e007e000d1bc700b46ecbad</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5714531" lon="-79.1953754">
+      <time>2009-09-21T17:14:59Z</time>
+      <name>IntermittentStream</name>
+      <cmt>Intermittent Stream</cmt>
+      <desc>Intermittent Stream</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2600cbd00d0026007e000d1bc700b86decae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5730519" lon="-79.1941976">
+      <ele>750.1128000</ele>
+      <time>2009-09-21T17:15:00Z</time>
+      <name>2461ft</name>
+      <cmt>2461 ft</cmt>
+      <desc>2461 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2100cbd00d0009007e000d1bc700026e22af</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5739422" lon="-79.1946030">
+      <ele>750.1128000</ele>
+      <time>2009-09-21T17:15:01Z</time>
+      <name>2461ft1</name>
+      <cmt>2461 ft</cmt>
+      <desc>2461 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2100cbd00d0009007e000d1bc7002c6e10af</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5749805" lon="-79.1952323">
+      <ele>750.1128000</ele>
+      <time>2009-09-21T17:15:02Z</time>
+      <name>2461ft2</name>
+      <cmt>2461 ft</cmt>
+      <desc>2461 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2100cbd00d0009007e000d1bc7005c6ef2ae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5751566" lon="-79.1922001">
+      <time>2009-09-21T17:15:03Z</time>
+      <name>NationalPark1</name>
+      <cmt>National Park</cmt>
+      <desc>National Park</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0001007e00031bc700646e7faf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5782676" lon="-79.1919383">
+      <ele>750.1128000</ele>
+      <time>2009-09-21T17:15:05Z</time>
+      <name>2461ft3</name>
+      <cmt>2461 ft</cmt>
+      <desc>2461 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2100cbd00d0002007d000d1bc700f56e8caf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5801010" lon="-79.1928884">
+      <time>2009-09-21T17:15:06Z</time>
+      <name>NationalPark2</name>
+      <cmt>National Park</cmt>
+      <desc>National Park</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600cbd00d0001007e00031bc7004b6f5faf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5798571" lon="-79.1893207">
+      <time>2009-09-21T17:15:08Z</time>
+      <name>Stream</name>
+      <cmt>Stream</cmt>
+      <desc>Stream</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1800cbd00d000b007d000d1bc7003f6f06b0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5859275" lon="-79.1936528">
+      <ele>650.1384000</ele>
+      <time>2009-09-21T17:15:12Z</time>
+      <name>2133ft</name>
+      <cmt>2133 ft</cmt>
+      <desc>2133 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2000cbd00d0008007e000d1bc7005a703caf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5870662" lon="-79.1957096">
+      <time>2009-09-21T17:15:13Z</time>
+      <name>Road4</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600cbd00d0008007d000d1bc7008f70dcae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5895232" lon="-79.1979202">
+      <ele>592.5312000</ele>
+      <name>Intersection Saw Mill 1</name>
+      <sym>Triangle, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5907929" lon="-79.1972276">
+      <time>2009-09-21T17:14:51Z</time>
+      <name>Road3</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600cbd00d0008007d000d1bc7003d7195ae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5920342" lon="-79.1970976">
+      <ele>600.1512000</ele>
+      <time>2009-09-21T17:14:49Z</time>
+      <name>1969ft</name>
+      <cmt>1969 ft</cmt>
+      <desc>1969 ft</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2000cbd00d0006007e000d1bc70077719bae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="38.5933399" lon="-79.1977787">
+      <time>2009-09-21T17:14:48Z</time>
+      <name>Road2</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Flag, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0520cbd00d0023007e000f1bc700b4717cae</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>
